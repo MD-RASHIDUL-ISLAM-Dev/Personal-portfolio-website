@@ -56,7 +56,10 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 
 /* ─── Section Spacing ─── */
-.section { padding: 100px 0; }
+.section {
+  padding: 100px 0;
+  scroll-margin-top: 88px; /* keeps fixed navbar from covering section tops on direct anchor jumps */
+}
 
 .section-header {
   margin-bottom: 64px;
@@ -667,6 +670,52 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   font-family: var(--font-mono);
   font-size: 0.7rem;
   color: var(--text-3);
+  display: block;
+}
+
+/* Project action links (repo / live demo) */
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-1);
+  padding: 7px 14px;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  transition: var(--transition);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.project-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(124, 109, 255, 0.08);
+  transform: translateY(-2px);
+}
+
+.project-link svg { flex-shrink: 0; }
+
+.project-link--soon {
+  color: var(--text-3);
+  border-style: dashed;
+  cursor: default;
+}
+
+.project-link--soon:hover {
+  border-color: var(--border);
+  color: var(--text-3);
+  background: transparent;
+  transform: none;
 }
 
 /* ═══════════════════════ PROCESS ═══════════════════════ */
@@ -1041,4 +1090,4 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   .process-step { grid-template-columns: 48px 1fr; gap: 16px; }
   .step-number { width: 48px; height: 48px; font-size: 0.75rem; }
   .step-connector { left: 23px; top: 56px; }
-}
+     }
