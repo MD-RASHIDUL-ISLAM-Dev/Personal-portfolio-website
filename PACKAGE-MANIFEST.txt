@@ -1,0 +1,13 @@
+index.html
+css/style.css
+js/script.js
+favicon.svg
+site.webmanifest
+robots.txt
+sitemap.xml
+UPLOAD-README.md
+assets/rifat-profile-original.jpg
+assets/project-mri-vault-relatable.webp
+assets/project-deepseek-telegram-relatable.webp
+assets/project-portfolio-relatable.webp
+assets/stack-constellation.webp
