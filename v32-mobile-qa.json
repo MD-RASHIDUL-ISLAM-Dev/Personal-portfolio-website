@@ -1,0 +1,223 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=32.0&scenario=archive&scale=focused#mobile-quick-start",
+  "result": {
+    "initial": {
+      "viewport": 390,
+      "quickDisplay": "block",
+      "quick": {
+        "left": 16,
+        "right": 374,
+        "top": -41181,
+        "bottom": -40810,
+        "width": 358,
+        "height": 372
+      },
+      "advancedDisplay": "block",
+      "scrollWidth": 390
+    },
+    "touchTargets": [
+      {
+        "id": "View selected work →",
+        "rect": {
+          "left": 49,
+          "right": 224,
+          "top": -41030,
+          "bottom": -40982,
+          "width": 175,
+          "height": 48
+        }
+      },
+      {
+        "id": "See technical proof",
+        "rect": {
+          "left": 49,
+          "right": 191,
+          "top": -40975,
+          "bottom": -40933,
+          "width": 142,
+          "height": 42
+        }
+      },
+      {
+        "id": "Open résumé",
+        "rect": {
+          "left": 199,
+          "right": 341,
+          "top": -40975,
+          "bottom": -40933,
+          "width": 142,
+          "height": 42
+        }
+      },
+      {
+        "id": "Start a conversation",
+        "rect": {
+          "left": 49,
+          "right": 191,
+          "top": -40925,
+          "bottom": -40883,
+          "width": 142,
+          "height": 42
+        }
+      },
+      {
+        "id": "← Previous",
+        "rect": {
+          "left": 33,
+          "right": 191,
+          "top": -3140,
+          "bottom": -3096,
+          "width": 158,
+          "height": 43
+        }
+      },
+      {
+        "id": "Next step →",
+        "rect": {
+          "left": 199,
+          "right": 357,
+          "top": -3140,
+          "bottom": -3096,
+          "width": 158,
+          "height": 43
+        }
+      },
+      {
+        "id": "← Previous",
+        "rect": {
+          "left": 39,
+          "right": 191,
+          "top": -2319,
+          "bottom": -2276,
+          "width": 152,
+          "height": 43
+        }
+      },
+      {
+        "id": "Next step →",
+        "rect": {
+          "left": 199,
+          "right": 351,
+          "top": -2319,
+          "bottom": -2276,
+          "width": 152,
+          "height": 43
+        }
+      },
+      {
+        "id": "← Previous",
+        "rect": {
+          "left": 33,
+          "right": 191,
+          "top": 15521,
+          "bottom": 15564,
+          "width": 158,
+          "height": 43
+        }
+      },
+      {
+        "id": "Next step →",
+        "rect": {
+          "left": 199,
+          "right": 357,
+          "top": 15521,
+          "bottom": 15564,
+          "width": 158,
+          "height": 43
+        }
+      },
+      {
+        "id": "Start a conversation",
+        "rect": {
+          "left": 16,
+          "right": 374,
+          "top": 777,
+          "bottom": 834,
+          "width": 358,
+          "height": 56
+        }
+      },
+      {
+        "id": "ai-launcher",
+        "rect": {
+          "left": 330,
+          "right": 380,
+          "top": 784,
+          "bottom": 834,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "id": "Send",
+        "rect": {
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "fitBefore": {
+      "steps": 7,
+      "current": "Where are you now?Just an ideaPrototype existsAlre",
+      "progress": "Step 2 / 7",
+      "submitDisplay": "none"
+    },
+    "fitAfter": {
+      "current": "What budget shape should we design around?Lean fir",
+      "progress": "Step 3 / 7"
+    },
+    "forms": {
+      "fit": {
+        "class": "fit-quiz fit-quiz--wide mobile-flow-form",
+        "steps": 7
+      },
+      "brief": {
+        "class": "brief-form mobile-flow-form",
+        "steps": 5
+      },
+      "contact": {
+        "class": "contact-form mobile-flow-form",
+        "steps": 6
+      }
+    },
+    "ai": {
+      "panel": {
+        "left": 4,
+        "right": 374,
+        "top": 300,
+        "bottom": 766,
+        "width": 369,
+        "height": 467
+      },
+      "display": "flex",
+      "maxHeight": "608px"
+    },
+    "sticky": {
+      "left": 16,
+      "right": 374,
+      "top": 766,
+      "bottom": 833,
+      "width": 358,
+      "height": 67
+    },
+    "launcher": {
+      "left": 330,
+      "right": 380,
+      "top": 784,
+      "bottom": 834,
+      "width": 50,
+      "height": 50
+    },
+    "overlap": true,
+    "fallback": {
+      "hidden": false,
+      "text": "Offline mode: local content, saved drafts and internal navigation remain available."
+    },
+    "overflow": [],
+    "finalScrollWidth": 390
+  }
+}

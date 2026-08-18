@@ -1,0 +1,34 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=31.0&scenario=archive&scale=focused#evaluation-ops",
+  "result": {
+    "initial": {
+      "present": true,
+      "cards": 12,
+      "forms": 1,
+      "scrollWidth": 390,
+      "sectionHeight": 7051
+    },
+    "comparison": "ProjectMRI Vault · DeepSeek BotProblemDocument retrieval · Conversational AIStackTelegram · Python · SQLite · Telegram · provider boundary · LLMMaturityLive workflow · Active buildRisk lensGrowing archive search · Provider availabilityProofMRI Vault → · DeepSeek Bot →",
+    "health": "IDs683 · UniqueImages7 · PresentAlt textPresentInternal anchorsContainedTitlePresentDescriptionPresentExternal link status এই local scan-এর অংশ নয়।",
+    "observer": "Paint entriesfirst-paint · first-contentful-paintResource timing16Layout shift observerAvailableNavigation timingAvailableএটি current browser session-এর observation; universal performance score নয়।",
+    "seo": "বাংলা PREVIEWরিফাত | Full-Stack AI EngineerSelf-taught Full-Stack AI Engineer building Telegram bots, LLM systems and useful web experiences.rifat portfolio · social preview",
+    "rubric": "Security boundarySecret browser-এর বাইরে রাখে।Untrusted input validate করে।Static shell কী protect করতে পারে না জানায়।",
+    "meeting": "AI / LLM agendaModel কী decide করবে এবং কী করবে না?Privacy, budget ও provider fallback কোথায় গুরুত্বপূর্ণ?First milestone: constrained prompt contract + readable failure path।Main constraint: privacy",
+    "roadmap": "পরবর্তীLive endpoint hardeningNext · protected service boundary configure হলে",
+    "draft": "Draft browser-এ save হয়েছে।",
+    "branch": "Maintenance-first replayBackup note, release discipline এবং provider key ও content update-এর clear owner দিয়ে শুরু করুন।Case study দেখুন →",
+    "scenario": "Low motion + large text scenarioকম movement-এর সঙ্গে বড় text ব্যবহার করে content readable রাখুন।Existing controls-এর সঙ্গে scenarioটি ব্যবহার করুন।",
+    "overflow": [],
+    "localized": {
+      "value": "en",
+      "title": "Inspect, compare and continue.",
+      "roadmap": "NextLive endpoint hardeningNext · only after a protected service boundary is configured"
+    },
+    "light": {
+      "theme": "light",
+      "titleColor": "rgb(23, 25, 37)",
+      "cardColor": "rgb(23, 32, 51)"
+    },
+    "finalScrollWidth": 390
+  }
+}

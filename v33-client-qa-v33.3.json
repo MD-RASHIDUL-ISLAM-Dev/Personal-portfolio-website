@@ -1,0 +1,64 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=33.3&scenario=archive&scale=focused#client-ready-layer",
+  "results": [
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "scope": "Python automationClarify the repetitive workflow and data boundary.Milestone 01: local proof → Milestone 02: reliable automation → Handoff: README, backup note and runbook.",
+      "mode": "Technical deep-diveA deeper path: architecture, state, provider boundary, failure handling, source and QA evidence.",
+      "annotation": "RecoveryBackup notes and readable fallback keep the workflow useful when the happy path breaks.Proof: failure simulator + maintenance preview.",
+      "tradeoff": "Strong privacyRecommendation: protect provider keys, keep private state behind a server boundary and make data flow explicit.Compromise: more setup; question: which data must never reach the browser?",
+      "portal": "Open decisionsChoose provider boundary and confirm the recovery expectation before the next checkpoint.",
+      "search": "Matches found: 1MRI PDF Archive Vault · Telegram · Python · SQLite · fuzzy search · backup · automation",
+      "incident": "Broken assetDetect: the image or document fails to load. Explain: keep the surrounding content readable. Recover: use the local fallback or alternate source. Document: update the asset health check.",
+      "contact": "Contact card downloaded.",
+      "quality": "Local content check completeTranslation hooks: 786/760 · Missing alt: 0 · Empty link targets: 0 · Proof surfaces: 26Local structural scan; not an accessibility certification.",
+      "dependency": "LLMDeepSeek Bot · provider boundary, request contract and fallback posture.Proof: AI Studio + architecture trace.",
+      "brand": "I build and document focused AI, automation and frontend systems—from architecture and failure handling to responsive delivery and handoff.",
+      "cardCount": 12
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "left": 246,
+          "right": 370,
+          "width": 124
+        }
+      ],
+      "scope": "Python automationClarify the repetitive workflow and data boundary.Milestone 01: local proof → Milestone 02: reliable automation → Handoff: README, backup note and runbook.",
+      "mode": "Technical deep-diveA deeper path: architecture, state, provider boundary, failure handling, source and QA evidence.",
+      "annotation": "RecoveryBackup notes and readable fallback keep the workflow useful when the happy path breaks.Proof: failure simulator + maintenance preview.",
+      "tradeoff": "Strong privacyRecommendation: protect provider keys, keep private state behind a server boundary and make data flow explicit.Compromise: more setup; question: which data must never reach the browser?",
+      "portal": "Open decisionsChoose provider boundary and confirm the recovery expectation before the next checkpoint.",
+      "search": "Matches found: 1MRI PDF Archive Vault · Telegram · Python · SQLite · fuzzy search · backup · automation",
+      "incident": "Broken assetDetect: the image or document fails to load. Explain: keep the surrounding content readable. Recover: use the local fallback or alternate source. Document: update the asset health check.",
+      "contact": "Contact card downloaded.",
+      "quality": "Local content check completeTranslation hooks: 786/760 · Missing alt: 0 · Empty link targets: 0 · Proof surfaces: 26Local structural scan; not an accessibility certification.",
+      "dependency": "LLMDeepSeek Bot · provider boundary, request contract and fallback posture.Proof: AI Studio + architecture trace.",
+      "brand": "I build and document focused AI, automation and frontend systems—from architecture and failure handling to responsive delivery and handoff.",
+      "cardCount": 12
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1265,
+      "overflow": [],
+      "scope": "Python automationClarify the repetitive workflow and data boundary.Milestone 01: local proof → Milestone 02: reliable automation → Handoff: README, backup note and runbook.",
+      "mode": "Technical deep-diveA deeper path: architecture, state, provider boundary, failure handling, source and QA evidence.",
+      "annotation": "RecoveryBackup notes and readable fallback keep the workflow useful when the happy path breaks.Proof: failure simulator + maintenance preview.",
+      "tradeoff": "Strong privacyRecommendation: protect provider keys, keep private state behind a server boundary and make data flow explicit.Compromise: more setup; question: which data must never reach the browser?",
+      "portal": "Open decisionsChoose provider boundary and confirm the recovery expectation before the next checkpoint.",
+      "search": "Matches found: 1MRI PDF Archive Vault · Telegram · Python · SQLite · fuzzy search · backup · automation",
+      "incident": "Broken assetDetect: the image or document fails to load. Explain: keep the surrounding content readable. Recover: use the local fallback or alternate source. Document: update the asset health check.",
+      "contact": "Contact card downloaded.",
+      "quality": "Local content check completeTranslation hooks: 786/760 · Missing alt: 0 · Empty link targets: 0 · Proof surfaces: 26Local structural scan; not an accessibility certification.",
+      "dependency": "LLMDeepSeek Bot · provider boundary, request contract and fallback posture.Proof: AI Studio + architecture trace.",
+      "brand": "I build and document focused AI, automation and frontend systems—from architecture and failure handling to responsive delivery and handoff.",
+      "cardCount": 12
+    }
+  ]
+}

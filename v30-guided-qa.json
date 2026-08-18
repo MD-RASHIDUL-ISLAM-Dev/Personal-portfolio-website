@@ -1,0 +1,35 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=30.0&scenario=archive&scale=focused#guided-evaluation",
+  "result": {
+    "initial": {
+      "present": true,
+      "cards": 12,
+      "forms": 2,
+      "scrollWidth": 390,
+      "sectionHeight": 6964
+    },
+    "tour": "Request contractInspect local validation, response shape and failure behavior.Open this proof →",
+    "interview": "How do you handle LLM failure?Keep the provider behind an explicit endpoint contract, show a readable fallback and never expose the key in the browser.A fallback preserves the interface; it does not claim provider availability.",
+    "playground": "Ask the assistantInput validated: a bounded question is required. Response shape: answer + source path + limitation. Fallback: local project knowledge.Local contract · no model provider contacted",
+    "lineage": "QA evidenceMobile, theme, syntax and static validation show how the surface was checked.Lineage complete: claim → case study → source → QA.",
+    "acceptance": "Mobile layout stays containedDocument width matches the viewport.Interactive controls remain reachable.Text stays readable in light and dark themes.",
+    "fingerprint": "Page fingerprintec880700015d1ad37b95f410572ecd30b5a31a29b7e0c90c6ca5e4e046a56a41Current HTML response · not a signed package attestation",
+    "shortlist": "Saved projectsMRI Vault · DeepSeek Bot",
+    "deployment": "NetlifyUseful when you want drag-and-drop deploy, preview deploys or form/provider hooks configured separately.Build command: none for this static package.",
+    "timeline": "v30 · Guided evaluation + acceptanceAdded role tour, interview mode, request contract, compatibility, fingerprint, shortlist and decision timeline.",
+    "screenreader": "1. Skip to content2. Primary navigation3. Main content4. Proof and project sections5. Contact and assistant controls6. Footer and external links",
+    "compatibility": "block",
+    "overflow": [],
+    "localized": {
+      "value": "bn",
+      "title": "আপনার মতো করে work evaluate করুন।",
+      "timeline": "v30 · Guided evaluation + acceptanceRole tour, interview mode, request contract, compatibility, fingerprint, shortlist ও decision timeline যোগ হয়েছে।"
+    },
+    "light": {
+      "theme": "light",
+      "titleColor": "rgb(23, 25, 37)",
+      "cardColor": "rgb(23, 32, 51)"
+    },
+    "finalScrollWidth": 390
+  }
+}
