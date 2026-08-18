@@ -1,0 +1,805 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=25.5&scenario=archive&scale=focused",
+  "results": [
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "progress": {
+        "sel": "#reading-progress-label",
+        "left": 243,
+        "right": 380,
+        "top": 808,
+        "bottom": 833,
+        "width": 136,
+        "height": 25,
+        "display": "flex",
+        "position": "fixed",
+        "z": "35",
+        "overflow": "visible",
+        "transform": "none",
+        "font": "8.8px",
+        "line": "8.8px",
+        "text": "Reading progress0%"
+      },
+      "tocBefore": {
+        "sel": "#section-toc",
+        "left": 10,
+        "right": 78,
+        "top": 741,
+        "bottom": 769,
+        "width": 68,
+        "height": 28,
+        "display": "grid",
+        "position": "fixed",
+        "z": "55",
+        "overflow": "visible",
+        "transform": "none",
+        "font": "16px",
+        "line": "25.6px",
+        "text": "SectionsAboutWorkCase studiesProofSecurityFailure handlingProof ledgerDecision replayNotesRecruiter snapshotDeploymentAccessibilityIntegrationsProof labReposito"
+      },
+      "tocOpen": {
+        "toggle": {
+          "sel": "#section-toc-toggle",
+          "left": 10,
+          "right": 78,
+          "top": 741,
+          "bottom": 769,
+          "width": 68,
+          "height": 28,
+          "display": "block",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "8.32px",
+          "line": "8.32px",
+          "text": "Sections"
+        },
+        "panel": {
+          "sel": "#section-toc",
+          "left": 10,
+          "right": 78,
+          "top": 741,
+          "bottom": 769,
+          "width": 68,
+          "height": 28,
+          "display": "grid",
+          "position": "fixed",
+          "z": "55",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "SectionsAboutWorkCase studiesProofSecurityFailure handlingProof ledgerDecision replayNotesRecruiter snapshotDeploymentAccessibilityIntegrationsProof labReposito"
+        },
+        "items": [
+          {
+            "text": "About",
+            "left": 19,
+            "right": 144,
+            "top": 224,
+            "bottom": 244,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Work",
+            "left": 19,
+            "right": 144,
+            "top": 248,
+            "bottom": 268,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Case studies",
+            "left": 19,
+            "right": 144,
+            "top": 272,
+            "bottom": 292,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof",
+            "left": 19,
+            "right": 144,
+            "top": 296,
+            "bottom": 316,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Security",
+            "left": 19,
+            "right": 144,
+            "top": 320,
+            "bottom": 340,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Failure handling",
+            "left": 19,
+            "right": 144,
+            "top": 344,
+            "bottom": 364,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof ledger",
+            "left": 19,
+            "right": 144,
+            "top": 368,
+            "bottom": 388,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Decision replay",
+            "left": 19,
+            "right": 144,
+            "top": 392,
+            "bottom": 412,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Notes",
+            "left": 19,
+            "right": 144,
+            "top": 416,
+            "bottom": 436,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Recruiter snapshot",
+            "left": 19,
+            "right": 144,
+            "top": 440,
+            "bottom": 460,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Deployment",
+            "left": 19,
+            "right": 144,
+            "top": 464,
+            "bottom": 484,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Accessibility",
+            "left": 19,
+            "right": 144,
+            "top": 488,
+            "bottom": 508,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Integrations",
+            "left": 19,
+            "right": 144,
+            "top": 512,
+            "bottom": 532,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof lab",
+            "left": 19,
+            "right": 144,
+            "top": 536,
+            "bottom": 556,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Repository detail",
+            "left": 19,
+            "right": 144,
+            "top": 560,
+            "bottom": 580,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Tour",
+            "left": 19,
+            "right": 144,
+            "top": 584,
+            "bottom": 604,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Resume",
+            "left": 19,
+            "right": 144,
+            "top": 608,
+            "bottom": 628,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Release feed",
+            "left": 19,
+            "right": 144,
+            "top": 632,
+            "bottom": 652,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Status integration",
+            "left": 19,
+            "right": 144,
+            "top": 656,
+            "bottom": 676,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "AI studio",
+            "left": 19,
+            "right": 144,
+            "top": 680,
+            "bottom": 700,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Contact",
+            "left": 19,
+            "right": 144,
+            "top": 704,
+            "bottom": 724,
+            "width": 124,
+            "height": 20
+          }
+        ],
+        "bodyOverflow": "clip visible"
+      },
+      "ai": {
+        "launcher": {
+          "sel": "#ai-launcher",
+          "left": 202,
+          "right": 378,
+          "top": 722,
+          "bottom": 769,
+          "width": 176,
+          "height": 47,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "9.92px",
+          "line": "9.92px",
+          "text": "Ask about meAI"
+        },
+        "panel": {
+          "sel": "#ai-panel",
+          "left": 202,
+          "right": 378,
+          "top": 110,
+          "bottom": 710,
+          "width": 176,
+          "height": 600,
+          "display": "block",
+          "position": "absolute",
+          "z": "auto",
+          "overflow": "hidden",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Rifat’s project assistantLocal project knowledge · no private data×Ask about Telegram bots, LLM integrations, the MRI Vault, or the engineering approach behind "
+        },
+        "messages": {
+          "sel": "#ai-messages",
+          "left": 203,
+          "right": 377,
+          "top": 200,
+          "bottom": 384,
+          "width": 174,
+          "height": 184,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "auto",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Ask about Telegram bots, LLM integrations, the MRI Vault, or the engineering approach behind this portfolio."
+        },
+        "input": {
+          "sel": "#ai-input",
+          "left": 296,
+          "right": 320,
+          "top": 509,
+          "bottom": 637,
+          "width": 24,
+          "height": 128,
+          "display": "block",
+          "position": "static",
+          "z": "auto",
+          "overflow": "clip",
+          "transform": "none",
+          "font": "10.88px",
+          "line": "10.88px",
+          "text": ""
+        },
+        "form": {
+          "sel": "#ai-form",
+          "left": 203,
+          "right": 377,
+          "top": 496,
+          "bottom": 649,
+          "width": 174,
+          "height": 153,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Ask a question about Rifat’s workSend"
+        },
+        "suggestions": [
+          {
+            "left": 219,
+            "right": 332,
+            "top": 384,
+            "bottom": 410,
+            "width": 113,
+            "height": 26,
+            "text": "What can you build?"
+          },
+          {
+            "left": 219,
+            "right": 361,
+            "top": 416,
+            "bottom": 452,
+            "width": 142,
+            "height": 36,
+            "text": "How was the MRI Vault built?"
+          },
+          {
+            "left": 219,
+            "right": 352,
+            "top": 457,
+            "bottom": 483,
+            "width": 133,
+            "height": 26,
+            "text": "What skills do you use?"
+          }
+        ]
+      },
+      "overflow": [],
+      "header": {
+        "sel": "#site-nav",
+        "left": 10,
+        "right": 380,
+        "top": 9,
+        "bottom": 71,
+        "width": 371,
+        "height": 62,
+        "display": "block",
+        "position": "fixed",
+        "z": "1100",
+        "overflow": "visible",
+        "transform": "matrix(1, 0, 0, 1, -185.398, 0)",
+        "font": "16px",
+        "line": "25.6px",
+        "text": "MD RASHIDUL ISLAMAI Systems & Full-Stack Engineer\n      \n      \n        About\n        Services\n        Work\n        Case studies\n        Notes\n        Build Not"
+      }
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "progress": {
+        "sel": "#reading-progress-label",
+        "left": 213,
+        "right": 350,
+        "top": 808,
+        "bottom": 833,
+        "width": 136,
+        "height": 25,
+        "display": "flex",
+        "position": "fixed",
+        "z": "35",
+        "overflow": "visible",
+        "transform": "none",
+        "font": "8.8px",
+        "line": "8.8px",
+        "text": "Reading progress0%"
+      },
+      "tocBefore": {
+        "sel": "#section-toc",
+        "left": 10,
+        "right": 78,
+        "top": 741,
+        "bottom": 769,
+        "width": 68,
+        "height": 28,
+        "display": "grid",
+        "position": "fixed",
+        "z": "55",
+        "overflow": "visible",
+        "transform": "none",
+        "font": "16px",
+        "line": "25.6px",
+        "text": "SectionsAboutWorkCase studiesProofSecurityFailure handlingProof ledgerDecision replayNotesRecruiter snapshotDeploymentAccessibilityIntegrationsProof labReposito"
+      },
+      "tocOpen": {
+        "toggle": {
+          "sel": "#section-toc-toggle",
+          "left": 10,
+          "right": 78,
+          "top": 741,
+          "bottom": 769,
+          "width": 68,
+          "height": 28,
+          "display": "block",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "8.32px",
+          "line": "8.32px",
+          "text": "Sections"
+        },
+        "panel": {
+          "sel": "#section-toc",
+          "left": 10,
+          "right": 78,
+          "top": 741,
+          "bottom": 769,
+          "width": 68,
+          "height": 28,
+          "display": "grid",
+          "position": "fixed",
+          "z": "55",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "SectionsAboutWorkCase studiesProofSecurityFailure handlingProof ledgerDecision replayNotesRecruiter snapshotDeploymentAccessibilityIntegrationsProof labReposito"
+        },
+        "items": [
+          {
+            "text": "About",
+            "left": 19,
+            "right": 144,
+            "top": 224,
+            "bottom": 244,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Work",
+            "left": 19,
+            "right": 144,
+            "top": 248,
+            "bottom": 268,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Case studies",
+            "left": 19,
+            "right": 144,
+            "top": 272,
+            "bottom": 292,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof",
+            "left": 19,
+            "right": 144,
+            "top": 296,
+            "bottom": 316,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Security",
+            "left": 19,
+            "right": 144,
+            "top": 320,
+            "bottom": 340,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Failure handling",
+            "left": 19,
+            "right": 144,
+            "top": 344,
+            "bottom": 364,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof ledger",
+            "left": 19,
+            "right": 144,
+            "top": 368,
+            "bottom": 388,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Decision replay",
+            "left": 19,
+            "right": 144,
+            "top": 392,
+            "bottom": 412,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Notes",
+            "left": 19,
+            "right": 144,
+            "top": 416,
+            "bottom": 436,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Recruiter snapshot",
+            "left": 19,
+            "right": 144,
+            "top": 440,
+            "bottom": 460,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Deployment",
+            "left": 19,
+            "right": 144,
+            "top": 464,
+            "bottom": 484,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Accessibility",
+            "left": 19,
+            "right": 144,
+            "top": 488,
+            "bottom": 508,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Integrations",
+            "left": 19,
+            "right": 144,
+            "top": 512,
+            "bottom": 532,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Proof lab",
+            "left": 19,
+            "right": 144,
+            "top": 536,
+            "bottom": 556,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Repository detail",
+            "left": 19,
+            "right": 144,
+            "top": 560,
+            "bottom": 580,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Tour",
+            "left": 19,
+            "right": 144,
+            "top": 584,
+            "bottom": 604,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Resume",
+            "left": 19,
+            "right": 144,
+            "top": 608,
+            "bottom": 628,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Release feed",
+            "left": 19,
+            "right": 144,
+            "top": 632,
+            "bottom": 652,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Status integration",
+            "left": 19,
+            "right": 144,
+            "top": 656,
+            "bottom": 676,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "AI studio",
+            "left": 19,
+            "right": 144,
+            "top": 680,
+            "bottom": 700,
+            "width": 124,
+            "height": 20
+          },
+          {
+            "text": "Contact",
+            "left": 19,
+            "right": 144,
+            "top": 704,
+            "bottom": 724,
+            "width": 124,
+            "height": 20
+          }
+        ],
+        "bodyOverflow": "clip visible"
+      },
+      "ai": {
+        "launcher": {
+          "sel": "#ai-launcher",
+          "left": 172,
+          "right": 348,
+          "top": 722,
+          "bottom": 769,
+          "width": 176,
+          "height": 47,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "9.92px",
+          "line": "9.92px",
+          "text": "Ask about meAI"
+        },
+        "panel": {
+          "sel": "#ai-panel",
+          "left": 172,
+          "right": 348,
+          "top": 110,
+          "bottom": 710,
+          "width": 176,
+          "height": 600,
+          "display": "block",
+          "position": "absolute",
+          "z": "auto",
+          "overflow": "hidden",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Rifat’s project assistantLocal project knowledge · no private data×Ask about Telegram bots, LLM integrations, the MRI Vault, or the engineering approach behind "
+        },
+        "messages": {
+          "sel": "#ai-messages",
+          "left": 173,
+          "right": 347,
+          "top": 200,
+          "bottom": 384,
+          "width": 174,
+          "height": 184,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "auto",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Ask about Telegram bots, LLM integrations, the MRI Vault, or the engineering approach behind this portfolio."
+        },
+        "input": {
+          "sel": "#ai-input",
+          "left": 266,
+          "right": 290,
+          "top": 509,
+          "bottom": 637,
+          "width": 24,
+          "height": 128,
+          "display": "block",
+          "position": "static",
+          "z": "auto",
+          "overflow": "clip",
+          "transform": "none",
+          "font": "10.88px",
+          "line": "10.88px",
+          "text": ""
+        },
+        "form": {
+          "sel": "#ai-form",
+          "left": 173,
+          "right": 347,
+          "top": 496,
+          "bottom": 649,
+          "width": 174,
+          "height": 153,
+          "display": "flex",
+          "position": "static",
+          "z": "auto",
+          "overflow": "visible",
+          "transform": "none",
+          "font": "16px",
+          "line": "25.6px",
+          "text": "Ask a question about Rifat’s workSend"
+        },
+        "suggestions": [
+          {
+            "left": 189,
+            "right": 302,
+            "top": 384,
+            "bottom": 410,
+            "width": 113,
+            "height": 26,
+            "text": "What can you build?"
+          },
+          {
+            "left": 189,
+            "right": 331,
+            "top": 416,
+            "bottom": 452,
+            "width": 142,
+            "height": 36,
+            "text": "How was the MRI Vault built?"
+          },
+          {
+            "left": 189,
+            "right": 322,
+            "top": 457,
+            "bottom": 483,
+            "width": 133,
+            "height": 26,
+            "text": "What skills do you use?"
+          }
+        ]
+      },
+      "overflow": [],
+      "header": {
+        "sel": "#site-nav",
+        "left": 10,
+        "right": 350,
+        "top": 9,
+        "bottom": 71,
+        "width": 341,
+        "height": 62,
+        "display": "block",
+        "position": "fixed",
+        "z": "1100",
+        "overflow": "visible",
+        "transform": "matrix(1, 0, 0, 1, -170.398, 0)",
+        "font": "16px",
+        "line": "25.6px",
+        "text": "MD RASHIDUL ISLAMAI Systems & Full-Stack Engineer\n      \n      \n        About\n        Services\n        Work\n        Case studies\n        Notes\n        Build Not"
+      }
+    }
+  ]
+}

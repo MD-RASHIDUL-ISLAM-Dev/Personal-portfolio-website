@@ -1,0 +1,10 @@
+ids=714
+images=7
+forms=28
+required_features=359
+html_structure=OK
+local_images=OK
+image_alt=OK
+required_features=OK
+hooks=OK
+service_worker=OK

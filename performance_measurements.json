@@ -1,0 +1,239 @@
+{
+  "project": "/home/ubuntu/workspace/portfolio-upgrade",
+  "file_count": 29,
+  "raw_bytes": 16821811,
+  "gzip_bytes_sum": 14582212,
+  "by_extension_bytes": {
+    ".png": 8933807,
+    ".svg": 6046995,
+    ".webp": 758102,
+    ".jpg": 457786,
+    ".js": 229504,
+    ".css": 148622,
+    ".html": 136833,
+    ".md": 54881,
+    ".pdf": 44274,
+    ".py": 8408,
+    ".xml": 2024,
+    ".webmanifest": 494,
+    ".txt": 81
+  },
+  "top_files": [
+    {
+      "path": "favicon.svg",
+      "bytes": 6046995,
+      "gzip_bytes": 4579839,
+      "mime": "image/svg+xml"
+    },
+    {
+      "path": "header-mr-logo.png",
+      "bytes": 4535032,
+      "gzip_bytes": 4536435,
+      "mime": "image/png",
+      "width": 1920,
+      "height": 1920,
+      "format": "PNG"
+    },
+    {
+      "path": "rifat-social-share-banner.png",
+      "bytes": 4398775,
+      "gzip_bytes": 4081218,
+      "mime": "image/png",
+      "width": 2560,
+      "height": 1440,
+      "format": "PNG"
+    },
+    {
+      "path": "project-mri-vault-relatable.webp",
+      "bytes": 307118,
+      "gzip_bytes": 307231,
+      "mime": "image/webp",
+      "width": 2560,
+      "height": 1440,
+      "format": "WEBP"
+    },
+    {
+      "path": "rifat-profile-original.jpg",
+      "bytes": 272830,
+      "gzip_bytes": 267259,
+      "mime": "image/jpeg",
+      "width": 1396,
+      "height": 1920,
+      "format": "JPEG"
+    },
+    {
+      "path": "script.js",
+      "bytes": 228140,
+      "gzip_bytes": 60898,
+      "mime": "text/javascript"
+    },
+    {
+      "path": "project-portfolio-relatable.webp",
+      "bytes": 225662,
+      "gzip_bytes": 225714,
+      "mime": "image/webp",
+      "width": 2560,
+      "height": 1440,
+      "format": "WEBP"
+    },
+    {
+      "path": "rifat-social-share-banner.jpg",
+      "bytes": 184956,
+      "gzip_bytes": 182538,
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 675,
+      "format": "JPEG"
+    },
+    {
+      "path": "project-deepseek-telegram-relatable.webp",
+      "bytes": 157720,
+      "gzip_bytes": 157788,
+      "mime": "image/webp",
+      "width": 2560,
+      "height": 1440,
+      "format": "WEBP"
+    },
+    {
+      "path": "style.css",
+      "bytes": 148622,
+      "gzip_bytes": 27698,
+      "mime": "text/css"
+    },
+    {
+      "path": "index.html",
+      "bytes": 136833,
+      "gzip_bytes": 33211,
+      "mime": "text/html"
+    },
+    {
+      "path": "stack-constellation.webp",
+      "bytes": 67602,
+      "gzip_bytes": 67645,
+      "mime": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "format": "WEBP"
+    },
+    {
+      "path": "Rifat-MD-Resume.pdf",
+      "bytes": 44274,
+      "gzip_bytes": 28214,
+      "mime": "application/pdf"
+    },
+    {
+      "path": "qa-notes.md",
+      "bytes": 21918,
+      "gzip_bytes": 8313,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "FEATURES-README.md",
+      "bytes": 13116,
+      "gzip_bytes": 4993,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "netlify-vercel-new-features-guide-bn.md",
+      "bytes": 8542,
+      "gzip_bytes": 3027,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "ADVANCED-FEATURES-SETUP.md",
+      "bytes": 4965,
+      "gzip_bytes": 1993,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "performance_measure.py",
+      "bytes": 4834,
+      "gzip_bytes": 1537,
+      "mime": "text/x-python"
+    },
+    {
+      "path": "performance-analysis.md",
+      "bytes": 3317,
+      "gzip_bytes": 1632,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "validate_attachment_build.py",
+      "bytes": 3093,
+      "gzip_bytes": 1216,
+      "mime": "text/x-python"
+    }
+  ],
+  "previous_code": {
+    "index_html_bytes": 113696,
+    "style_css_bytes": 140157,
+    "script_js_bytes": 191183,
+    "html_ids": 259,
+    "forms": 7,
+    "buttons": 82,
+    "sections": 40
+  },
+  "code": {
+    "index_html_bytes": 136833,
+    "style_css_bytes": 148622,
+    "script_js_bytes": 228140,
+    "sw_js_bytes": 1364,
+    "html_lines": 334,
+    "css_lines": 284,
+    "js_lines": 1125,
+    "html_ids": 330,
+    "forms": 10,
+    "buttons": 102,
+    "sections": 52
+  },
+  "previous_v17": {
+    "path": "/home/ubuntu/Rifat-portfolio-v17.zip",
+    "zip_bytes": 15258103,
+    "entry_count": 40,
+    "uncompressed_bytes": 17544282,
+    "compressed_entry_bytes": 15249543,
+    "by_extension": {
+      ".png": 9550730,
+      ".svg": 6046995,
+      ".webp": 758102,
+      ".jpg": 542322,
+      ".js": 192547,
+      ".css": 140157,
+      ".pdf": 136694,
+      ".html": 113696,
+      ".md": 47163,
+      ".typ": 4079,
+      ".json": 3652,
+      ".py": 3100,
+      ".log": 2446,
+      ".xml": 2024,
+      ".webmanifest": 494,
+      ".txt": 81
+    }
+  },
+  "current_v19_zip": {
+    "path": "/home/ubuntu/Rifat-portfolio-v19.zip",
+    "zip_bytes": 15275150,
+    "entry_count": 40,
+    "uncompressed_bytes": 17617450,
+    "compressed_entry_bytes": 15266590,
+    "by_extension": {
+      ".png": 9550730,
+      ".svg": 6046995,
+      ".webp": 758102,
+      ".jpg": 542322,
+      ".js": 229504,
+      ".css": 148622,
+      ".html": 136833,
+      ".pdf": 136694,
+      ".md": 51298,
+      ".typ": 4079,
+      ".json": 3652,
+      ".py": 3574,
+      ".log": 2446,
+      ".xml": 2024,
+      ".webmanifest": 494,
+      ".txt": 81
+    }
+  }
+}
