@@ -1,0 +1,1078 @@
+# v23.5 feature inventory
+
+## Sections
+- top
+- about
+- services
+- expertise
+- packages
+- projects
+- bot-demo
+- before-after
+- case-studies
+- architecture-map
+- technical-proof
+- security-posture
+- failure-simulator
+- demo-lab
+- code-playground
+- activity
+- opensource
+- project-timeline
+- snippet-library
+- meta-case-study
+- proof-ledger
+- decision-replay
+- scenario-builder
+- readiness-meter
+- engineering-principles
+- changelog-diff
+- api-docs
+- feedback-consent
+- profile-export
+- keyboard-guide
+- pwa-install-guide
+- reading-mode
+- recruiter-snapshot
+- deployment-readiness
+- accessibility-preferences
+- notes
+- now-building
+- now
+- status
+- studio-terminal
+- compare
+- fit-quiz
+- brief-generator
+- onboarding
+- performance
+- performance-budget
+- privacy-center
+- accessibility-audit
+- feedback
+- anti-fit
+- outcome-planner
+- availability
+- client-portal
+- skills
+- process
+- faq
+- newsletter
+- analytics-console
+- contact
+- ai-panel
+
+## Hook attributes
+data-ai-endpoint=""
+data-ai-question="How was the MRI Vault built?"
+data-ai-question="What can you build?"
+data-ai-question="What skills do you use?"
+data-analytics-endpoint=""
+data-audit="controls"
+data-audit="focus"
+data-audit="images"
+data-audit="language"
+data-audit="motion"
+data-bn-placeholder="topic, project বা keyword দিয়ে খুঁজুন…"
+data-bn="<i>active build</i>-এর জন্য private space।"
+data-bn="<i>interface</i>-এর পেছনের সিদ্ধান্তগুলো দেখুন।"
+data-bn="<i>problem থেকে proof</i>-এর পথটি replay করুন।"
+data-bn="API boundary notes"
+data-bn="Accessibility audit"
+data-bn="Accessibility preferences"
+data-bn="Availability calendar"
+data-bn="Backup file incomplete"
+data-bn="Border এবং text contrast আরও স্পষ্ট করে।"
+data-bn="Build environment"
+data-bn="Build করার <i>আগেই</i> success ঠিক করুন।"
+data-bn="Changelog diff"
+data-bn="Clear scope। Useful first version।"
+data-bn="Client onboarding"
+data-bn="Client portal preview"
+data-bn="Client এবং recruiter শুধু polished surface নয়—trade-off, failure handling, security decision এবং lessons learned-ও দেখতে পারবেন।"
+data-bn="Configuration hook"
+data-bn="Connection-এর আগে <i>contract</i> দেখান।"
+data-bn="Content রেখে decorative layer কমায়।"
+data-bn="Current availability, next opening এবং response target planning signal হিসেবে দেখানো হচ্ছে—guaranteed booking promise হিসেবে নয়।"
+data-bn="Deadline কতটা জরুরি?"
+data-bn="Deployment readiness"
+data-bn="Discovery call বুক করুন →"
+data-bn="Email, WhatsApp, Telegram এবং vCard contact handoff available।"
+data-bn="Engineering principles"
+data-bn="Failure condition"
+data-bn="Failure handling"
+data-bn="Focus mode"
+data-bn="Generated brief ব্যবহার করে পরবর্তী ধাপ বুঝুন: scope, proof, prototype এবং handover।"
+data-bn="Happy path ভাঙলে <i>message</i>-টিও গুরুত্বপূর্ণ।"
+data-bn="High contrast"
+data-bn="Honest boundary এবং direct handover path-সহ selected collaboration।"
+data-bn="Installable portfolio"
+data-bn="Interactive demo lab"
+data-bn="Interactive project brief"
+data-bn="Keyboard guide"
+data-bn="Keyboard ব্যবহার করেই <i>explore</i> করুন।"
+data-bn="LLM provider unavailable"
+data-bn="LLM workflow"
+data-bn="Live retrieval workflow"
+data-bn="Local check চালান →"
+data-bn="Local scan চালান →"
+data-bn="Long-form case study পড়ার সময় Reading mode hierarchy, proof ও contact path রাখে, কিন্তু decorative effect কমিয়ে দেয়।"
+data-bn="MRI Vault bot ও public source real Telegram search এবং retrieval workflow দেখায়।"
+data-bn="MRI Vault · live workflow"
+data-bn="Meta case study"
+data-bn="Offline হলেও কাজটি <i>কাছেই রাখুন</i>।"
+data-bn="Open-source snippet"
+data-bn="Open-source timeline"
+data-bn="Outcome measurement planner"
+data-bn="Outcome reporting"
+data-bn="PWA shell ready আছে। Browser install support করলে native install prompt খুলবে; না হলে fallback explanation দেখাবে।"
+data-bn="Performance budget"
+data-bn="Permissioned feedback"
+data-bn="Polish করার আগে surface-টি <i>মাপুন</i>।"
+data-bn="Portable profile"
+data-bn="Portfolio কীভাবে <i>evolve</i> করে দেখুন।"
+data-bn="Portfolio-র প্রতিটি claim-কে public demo, repository, local implementation অথবা স্পষ্ট configuration boundary-এর সঙ্গে যুক্ত করা হয়েছে।"
+data-bn="Preference reset করুন"
+data-bn="Privacy center"
+data-bn="Product idea থেকে dependable system হওয়ার পথে যে trade-off ব্যবহার করি, তার একটি compact reference।"
+data-bn="Production date বানিয়ে না দেখিয়ে release note compare করুন।"
+data-bn="Project anti-fit"
+data-bn="Project brief প্রস্তুত করুন →"
+data-bn="Project code, local asset, accessible dialog ও service-worker shell সরাসরি inspect করা যায়।"
+data-bn="Project readiness"
+data-bn="Project timeline"
+data-bn="Proof"
+data-bn="Public implementation proof"
+data-bn="Public repository, safe embedded demo এবং documented architecture trade-off।"
+data-bn="Python, LLM/RAG, Telegram bot, automation এবং responsive interface।"
+data-bn="Reading mode"
+data-bn="Recovery posture"
+data-bn="Recovery simulate করুন →"
+data-bn="Recruiter snapshot"
+data-bn="Recruiter, client brief বা নিজের record-এর জন্য structured Markdown বা JSON profile download করুন।"
+data-bn="Release-এর মাঝেও portfolio-কে active রাখার জন্য একটি ছোট manually curated now page।"
+data-bn="Repository, current state, documentation, reusable utility এবং পরবর্তী milestone—public work-এর একটি structured signal।"
+data-bn="Role"
+data-bn="Role, strongest proof, selected work এবং collaboration posture-এর একটি concise printable view।"
+data-bn="Safe code playground"
+data-bn="Safe scenario তৈরি করুন →"
+data-bn="Sample constraint ব্যবহার করে Telegram, LLM বা automation workflow-এর shape preview করুন। কোনো external request করা হয় না।"
+data-bn="Sample data দিয়ে search, retrieval এবং backup behavior-এর safe local sandbox। Telegram-এ কিছু পাঠানো হয় না এবং কোনো private session খোলা হয় না।"
+data-bn="Scenario builder"
+data-bn="Search clarity ও সময় সাশ্রয়"
+data-bn="Search system"
+data-bn="Security posture"
+data-bn="Self-taught Full-Stack AI Engineer"
+data-bn="Ship করার আগে package <i>inspect</i> করুন।"
+data-bn="Snapshot download করুন"
+data-bn="Snapshot print করুন"
+data-bn="Static delivery surface-এর browser-local checklist চালান: markup, style, script, PWA metadata, local asset, contact hook এবং provider boundary।"
+data-bn="System status"
+data-bn="System-এর boundary <i>স্পষ্ট</i> রাখি।"
+data-bn="Telegram/API timeout"
+data-bn="Token, private state, user input, public asset এবং external provider কোথায় থাকে—তার একটি static-safe explainer। Provider configure না থাকলে তাকে live বলা হয় না।"
+data-bn="Working style"
+data-bn="brief থেকে <i>useful first step</i>।"
+data-bn="builder-কে hire করার আগে workflow <i>দেখুন।</i>"
+data-bn="developer visitor-দের জন্য ছোট starter library। এগুলো educational snippet; production credential বা private project file নয়।"
+data-bn="repo থেকে <i>release</i> পর্যন্ত পরিষ্কার trail।"
+data-bn="utility পড়ুন, <i>boundary</i> বুঝুন।"
+data-bn="অতিরঞ্জন ছাড়া <i>reliability</i>।"
+data-bn="অপ্রয়োজনীয় animation কমায়।"
+data-bn="অভিজ্ঞতায় প্রবেশকে আরও <i>সহজ</i> করুন।"
+data-bn="অস্পষ্ট idea-কে <i>clear starting brief</i>-এ রূপ দিন।"
+data-bn="আপনার focus-এর জন্য উপযুক্ত <i>interface</i> বেছে নিন।"
+data-bn="আপনার বর্তমান অবস্থান কী?"
+data-bn="আপনি কী উন্নত করতে চান?"
+data-bn="আমার recommendation তৈরি করুন →"
+data-bn="আমি কীভাবে <i>এই site</i> তৈরি করেছি।"
+data-bn="এই local preview feedback request প্রস্তুত করে। Protected provider যুক্ত এবং contributor attribution approve না করা পর্যন্ত কিছু publish বা send করা হয় না।"
+data-bn="এই local snapshot implementation measurement দেখায়, বানানো Lighthouse score নয়। বর্তমান browser-এ DOM, code এবং first-party resource posture দেখতে scan চালান।"
+data-bn="এই panel local file metadata এবং browser timing ব্যবহার করে। এটি field-user Web Vitals claim করে না।"
+data-bn="এই portfolio নিজেই একটি frontend project: framework-বিহীন HTML, CSS ও JavaScript, Canvas effect, local asset, accessible dialog এবং service-worker shell।"
+data-bn="এই preference-গুলো এই browser-এ localভাবে থাকে। এগুলো আপনাকে identify করে না এবং কোনো provider-এ পাঠানো হয় না।"
+data-bn="এই profile signal-টি <i>সঙ্গে নিন</i>।"
+data-bn="এই static portfolio preference এবং local analytics এই browser-এ রাখে। Protected provider configure না করা পর্যন্ত contact, newsletter, AI, booking এবং status delivery disabled থাকে।"
+data-bn="এই static-safe preview-তে client experience-এর কাঠামো দেখানো হচ্ছে: brief, milestone, file এবং handover note। Confidential data ব্যবহারের আগে protected backend-এর মাধ্যমে production authentication ও private storage যুক্ত করতে হবে।"
+data-bn="এই status surface public monitoring endpoint-এর জন্য প্রস্তুত। Endpoint যুক্ত না হওয়া পর্যন্ত বানানো uptime বা response-time না দেখিয়ে configuration state দেখায়।"
+data-bn="এক page-এ <i>মূল signal</i>।"
+data-bn="একটি focused brief share করুন"
+data-bn="একটি project বেছে নিয়ে decision sequence দেখুন। Polished surface-এর পেছনে এটাই reasoning layer।"
+data-bn="একটি situation দিন, একটি <i>safe response</i> দেখুন।"
+data-bn="একটি workflow বেছে নিলে planner একটি honest first measurement plan দেবে। এটি conversation starter, promised result নয়।"
+data-bn="একটি বাস্তবসম্মত failure state বেছে user-facing recovery posture দেখুন। এটি local reasoning simulator, live service monitor নয়।"
+data-bn="একটি ব্যবহারযোগ্য <i>প্রথম version</i> বেছে নিন।"
+data-bn="এখন build করছি"
+data-bn="এখন কী <i>এগিয়ে যাচ্ছে</i>।"
+data-bn="এখন যাচাইযোগ্য"
+data-bn="এখন"
+data-bn="এখনও scan করা হয়নি"
+data-bn="এখানে visible"
+data-bn="এখানে কোনো বানানো percentage নেই। প্রতিটি proof card-এ ইতিমধ্যে যাচাইযোগ্য বিষয় এবং production endpoint যুক্ত হলে যেটি মাপা উচিত—দুটিকে আলাদা করে দেখানো হয়েছে।"
+data-bn="এগুলো optional provider hook-এর documentation। এগুলো live credential নয়, real endpoint call করে না এবং static repository-তে share করা নিরাপদ।"
+data-bn="এগুলো scope signal, fixed quote নয়। Final pricing brief, integration surface এবং delivery constraint-এর ওপর নির্ভর করবে।"
+data-bn="এটি boundary explainer মাত্র · কোনো security certification বা penetration-test result দাবি করা হচ্ছে না।"
+data-bn="এটি শুধু current browser package check করে; remote deployment বা security guarantee নয়।"
+data-bn="কম motion"
+data-bn="কম surface, বেশি <i>signal</i>।"
+data-bn="কাজ কী <i>পরিবর্তন করে</i>, তা মাপুন।"
+data-bn="কোন budget range ধরে পরিকল্পনা করব?"
+data-bn="কোন data <i>local</i> থাকে জানুন।"
+data-bn="কোন integration সবচেয়ে গুরুত্বপূর্ণ?"
+data-bn="কোনো request পাঠানো হয় না। Output একটি local design example।"
+data-bn="কোনো search result নেই"
+data-bn="কয়েকটি ব্যবহারিক প্রশ্নের উত্তর দিন এবং প্রথম conversation-এর আগে download, email বা Telegram-এ পাঠানোর মতো structured brief তৈরি করুন।"
+data-bn="টেকনিক্যাল প্রমাণ"
+data-bn="তারিখ বানিয়ে না দেখিয়ে foundation, shipped workflow, active AI build এবং practice document করা portfolio—এই stage-based roadmap গল্পটিকে বাস্তব রাখে।"
+data-bn="নিচের educational starter edit করে তার shape preview করুন। Static site browser-এ arbitrary Python চালায় না এবং কোনো secret নেয় না।"
+data-bn="নোট খুঁজুন"
+data-bn="পরবর্তী <i>conversation</i>-এর বাস্তব চিত্র।"
+data-bn="পরবর্তী ধাপ"
+data-bn="পরে protected"
+data-bn="পরের ধাপে মাপুন"
+data-bn="পর্যালোচনার signal"
+data-bn="পুনরায় ব্যবহারের জন্য ছোট <i>utility</i>।"
+data-bn="প্রজেক্ট ফিট ২.০"
+data-bn="প্রজেক্টের ধরন জানালে আপনি পাবেন ব্যবহারিক service recommendation, starting scope এবং relevant case study—শুধু সাধারণ service list নয়।"
+data-bn="প্রতিটি claim-এর একটি <i>প্রমাণের পথ</i> থাকা উচিত।"
+data-bn="প্রথম <i>conversation</i>-এর জন্য কী ready, তা জানুন।"
+data-bn="প্রথম useful version কতটা complex?"
+data-bn="প্রমাণের তালিকা"
+data-bn="ফলাফলের প্রমাণ"
+data-bn="বর্তমান page-এর local checklist চালান: meaningful image alt, labelled control, keyboard path, reduced-motion support এবং language state।"
+data-bn="বাস্তব retrieval-time বা usage metric প্রকাশের আগে protected event endpoint যুক্ত করতে হবে।"
+data-bn="বড় text"
+data-bn="ভবিষ্যতের case-study update-এ permission নিয়ে number যোগ করা যাবে, assumption-কে claim না বানিয়ে।"
+data-bn="ভালো কাজের শুরু একটি <i>স্পষ্ট না</i> দিয়ে।"
+data-bn="মূল content-এর reading scale বাড়ায়।"
+data-bn="যা জানা আছে তা tick করুন। Meter missing discovery input দেখাবে; এটি quote, score বা approval gate নয়।"
+data-bn="যে project replay করবেন"
+data-bn="শুরুর পথ"
+data-bn="শেখা থেকে <i>shipping</i>-এর public path।"
+data-bn="সঠিক প্রশ্ন দিয়ে <i>শুরু করি।</i>"
+data-bn="সব নোট"
+data-bn="সব প্রমাণ"
+data-bn="সবচেয়ে ভালো collaboration হলো যেখানে কাজ শুরুর আগেই problem, ownership এবং first useful version পরিষ্কার থাকে।"
+data-bn="সাইটটি keyboard দিয়েই ব্যবহার করা যায় এবং shortcut-গুলোর একটি visible explanation এখানে আছে।"
+data-bn="সিদ্ধান্ত replay"
+data-bn="সিদ্ধান্তের পেছনের <i>নীতি</i>।"
+data-bn="সিস্টেমটি কোথায় চলবে?"
+data-bn="স্পষ্ট permission-সহ <i>real feedback</i>।"
+data-bn="সৎ measurement boundary"
+data-bn="০১ Token boundary"
+data-bn="০২ Private state"
+data-bn="০৩ User input"
+data-bn="০৪ Provider hook"
+data-booking-url=""
+data-bot-action="backup"
+data-bot-action="retrieve"
+data-bot-action="search"
+data-categories="frontend javascript design"
+data-categories="telegram ai llm"
+data-categories="telegram python automation"
+data-copy-email="rashidulislamrifat14708@gmail.com"
+data-copy-snippet="backup"
+data-copy-snippet="focus"
+data-copy-snippet="telegram"
+data-count="3"
+data-decision-step="problem"
+data-decision-step="proof"
+data-decision-step="thinking"
+data-decision-step="tradeoff"
+data-deep-dive="archive"
+data-deep-dive="deepseek"
+data-deep-dive="portfolio"
+data-demo-action="backup"
+data-demo-action="retrieve"
+data-demo-action="search"
+data-en-placeholder="Search by topic, project or keyword…"
+data-en="01 Token boundary"
+data-en="02 Private state"
+data-en="03 User input"
+data-en="04 Provider hook"
+data-en="A clearer trail from repo to <i>release.</i>"
+data-en="A compact reference for the trade-offs I use when a product moves from idea toward something people can depend on."
+data-en="A compact, manually curated now page keeps the portfolio alive between releases."
+data-en="A concise, printable view of the role, strongest proof, selected work and current collaboration posture."
+data-en="A future case-study update can add permissioned numbers without turning assumptions into claims."
+data-en="A private space for the <i>active build.</i>"
+data-en="A public path from <i>learning to shipping.</i>"
+data-en="A realistic view of the next <i>conversation.</i>"
+data-en="A safe local sandbox demonstrates search, retrieval and backup behavior with sample data only. Nothing is sent to Telegram and no private session is opened."
+data-en="A small starter library for developer visitors. These are educational snippets, not production credentials or private project files."
+data-en="A stage-based roadmap keeps the story honest without inventing dates: foundation, shipped workflow, active AI build and a portfolio that documents the practice."
+data-en="A static-safe explainer of where tokens, private state, user input, public assets and external providers belong. It describes the design boundary without claiming that an unconfigured provider is live."
+data-en="A structured public-work signal: repository, current state, documentation, reusable utilities and the next visible milestone."
+data-en="A transparent ledger connects the portfolio language to a public demo, repository, local implementation or an explicit configuration boundary."
+data-en="API boundary notes"
+data-en="Accessibility audit"
+data-en="Accessibility preferences"
+data-en="All notes"
+data-en="All proof"
+data-en="Answer a few practical questions and generate a structured brief you can download, email or open in Telegram before the first conversation."
+data-en="Availability calendar"
+data-en="Backup file is incomplete"
+data-en="Book a discovery call →"
+data-en="Boundary explainer only · no security certification or penetration-test result is implied."
+data-en="Build a safe scenario →"
+data-en="Build environment"
+data-en="Build my recommendation →"
+data-en="Changelog diff"
+data-en="Choose a realistic failure state and inspect the user-facing recovery posture. This is a local reasoning simulator, not a live service monitor."
+data-en="Choose a useful <i>first version.</i>"
+data-en="Choose a workflow and the planner will suggest an honest first measurement plan. It creates a conversation starter, not a promised result."
+data-en="Choose the interface that helps you <i>focus.</i>"
+data-en="Clear scope. Useful first version."
+data-en="Client onboarding"
+data-en="Client portal preview"
+data-en="Clients and recruiters can inspect the trade-offs, failure handling, security posture and lessons learned—not only the polished surface."
+data-en="Compare release notes without pretending every change happened on a production date."
+data-en="Configuration hooks"
+data-en="Connect a protected event endpoint before publishing real retrieval-time or usage metrics."
+data-en="Current availability, the next opening and the response target are shown as a planning signal—not a guaranteed booking promise."
+data-en="Currently building"
+data-en="Decide what success means <i>before build.</i>"
+data-en="Decision replay"
+data-en="Deployment readiness"
+data-en="Describe a situation. See a <i>safe response.</i>"
+data-en="Download a structured Markdown or JSON profile for a recruiter, client brief or your own records."
+data-en="Download snapshot"
+data-en="Edit the educational starter below and preview its shape. The static site never executes arbitrary Python or accepts secrets in the browser."
+data-en="Email, WhatsApp, Telegram and vCard contact handoff are available."
+data-en="Engineering principles"
+data-en="Every claim should have a <i>path.</i>"
+data-en="Explore without leaving the <i>keys.</i>"
+data-en="Failure condition"
+data-en="Failure handling"
+data-en="Focus mode"
+data-en="From brief to a <i>useful first step.</i>"
+data-en="Good work starts with a <i>clear no.</i>"
+data-en="High contrast"
+data-en="Honest measurement boundary"
+data-en="How I built <i>this site.</i>"
+data-en="How complex is the first useful version?"
+data-en="Increase reading scale for core content."
+data-en="Inspect the package before it <i>ships.</i>"
+data-en="Installable portfolio"
+data-en="Instrument next"
+data-en="Interactive demo lab"
+data-en="Interactive project brief"
+data-en="Keep the work close, even <i>offline.</i>"
+data-en="Keyboard guide"
+data-en="Know what is ready for the <i>first conversation.</i>"
+data-en="Know what stays <i>local.</i>"
+data-en="LLM provider unavailable"
+data-en="LLM workflows"
+data-en="Larger text"
+data-en="Less surface. More <i>signal.</i>"
+data-en="Live retrieval workflow"
+data-en="MRI Vault · live workflow"
+data-en="Make the boundary <i>visible.</i>"
+data-en="Make the experience easier to <i>enter.</i>"
+data-en="Measure the surface before you <i>polish it.</i>"
+data-en="Measure what the work <i>changes.</i>"
+data-en="Meta case study"
+data-en="Next step"
+data-en="No invented percentages appear here. Each proof card separates what is already verifiable from what should be instrumented after a production endpoint is connected."
+data-en="No request is sent. The output is a local design example."
+data-en="No search result"
+data-en="Not scanned"
+data-en="Now"
+data-en="Open-source snippets"
+data-en="Open-source timeline"
+data-en="Outcome evidence"
+data-en="Outcome measurement planner"
+data-en="Outcome reporting"
+data-en="Performance budget"
+data-en="Permissioned feedback"
+data-en="Portable profile"
+data-en="Prepare a project brief →"
+data-en="Print snapshot"
+data-en="Privacy center"
+data-en="Project anti-fit"
+data-en="Project code, local assets, accessible dialogs and a service-worker shell can be inspected directly."
+data-en="Project fit 2.0"
+data-en="Project readiness"
+data-en="Project timeline"
+data-en="Project to replay"
+data-en="Proof ledger"
+data-en="Proof"
+data-en="Protected later"
+data-en="Public implementation proof"
+data-en="Public repository, safe embedded demo and documented architecture trade-offs."
+data-en="Python, LLM/RAG, Telegram bots, automation and responsive interfaces."
+data-en="Read the utility. Understand the <i>boundary.</i>"
+data-en="Reading mode keeps the hierarchy, proof and contact path while reducing decorative effects for long-form case-study reading."
+data-en="Reading mode"
+data-en="Real feedback, with <i>clear permission.</i>"
+data-en="Recovery posture"
+data-en="Recruiter snapshot"
+data-en="Reduce decorative layers while keeping content."
+data-en="Reduce non-essential animation."
+data-en="Reduced motion"
+data-en="Reliability, without the <i>theatre.</i>"
+data-en="Replay the path from <i>problem to proof.</i>"
+data-en="Reset preferences"
+data-en="Review signal"
+data-en="Role"
+data-en="Run a browser-local checklist for the static delivery surface: markup, styles, scripts, PWA metadata, local assets, contact hooks and honest provider boundaries."
+data-en="Run a local checklist for the current page: meaningful image alternatives, labelled controls, keyboard path, reduced-motion support and language state."
+data-en="Run local checks →"
+data-en="Run local scan →"
+data-en="Safe code playground"
+data-en="Scenario builder"
+data-en="Search clarity and time saved"
+data-en="Search notes"
+data-en="Search systems"
+data-en="Security posture"
+data-en="See how the portfolio <i>evolves.</i>"
+data-en="Select a project, then move through the decision sequence. This is the reasoning layer behind the polished surface."
+data-en="Selected collaborations with honest boundaries and a direct handover path."
+data-en="Self-taught Full-Stack AI Engineer"
+data-en="Share a focused brief"
+data-en="Share the shape of the project and get a practical service recommendation, starting scope and relevant case study—not a vague service list."
+data-en="Show the contract before the <i>connection.</i>"
+data-en="Show the decisions behind the <i>interface.</i>"
+data-en="Simulate recovery →"
+data-en="Small utilities, ready to <i>reuse.</i>"
+data-en="Start with the <i>right question.</i>"
+data-en="Starting points"
+data-en="Strengthen borders and text contrast."
+data-en="System status"
+data-en="Take the signal with <i>you.</i>"
+data-en="Technical proof"
+data-en="Telegram/API timeout"
+data-en="The MRI Vault bot and public source show a real Telegram search and retrieval workflow."
+data-en="The PWA shell is ready. If your browser supports installation, this action will open its native install prompt; otherwise it explains the fallback."
+data-en="The decisions behind the <i>decisions.</i>"
+data-en="The panel uses local file metadata and browser timing when available. It does not claim field-user Web Vitals."
+data-en="The portfolio is itself a frontend project: framework-free HTML, CSS and JavaScript, Canvas effects, local assets, accessible dialogs and a service-worker shell."
+data-en="The signal, on <i>one page.</i>"
+data-en="The site remains usable with a keyboard and gives the shortcuts a visible explanation."
+data-en="The strongest collaboration is one where the problem, ownership and first useful version are understandable before work begins."
+data-en="These are scope signals, not fixed quotes. Final pricing follows the brief, integration surface and delivery constraints."
+data-en="These examples document optional provider hooks. They are not live credentials, do not call a real endpoint, and are safe to share in a static repository."
+data-en="These preferences are stored locally in this browser. They do not identify you and are not sent to a provider."
+data-en="This checks the current browser package only; it is not a remote deployment or security guarantee."
+data-en="This local preview prepares a feedback request. Nothing is published or sent until a protected provider is connected and the contributor approves attribution."
+data-en="This local snapshot reports implementation measurements, not an invented Lighthouse score. Run it on this browser to see the current DOM, code and first-party resource posture."
+data-en="This static portfolio keeps preferences and local analytics in this browser. Contact, newsletter, AI, booking and status delivery remain disabled until a protected provider is configured."
+data-en="This static-safe preview shows the intended client experience: brief, milestones, files and handover notes. Production authentication and private storage must be connected through a protected backend before confidential data is used."
+data-en="This status surface is ready for a public monitoring endpoint. Until one is connected, it reports configuration state instead of inventing uptime or response-time numbers."
+data-en="Tick what you already know. The meter identifies missing discovery inputs; it is not a quote, score or approval gate."
+data-en="Try the workflow before you <i>hire the builder.</i>"
+data-en="Turn a vague idea into a <i>clear starting brief.</i>"
+data-en="Use sample constraints to preview how a Telegram, LLM or automation workflow could be shaped. No external request is made."
+data-en="Use the generated brief to understand what happens next: scope, proof, prototype and handover."
+data-en="Verified now"
+data-en="Visible here"
+data-en="What are you trying to improve?"
+data-en="What budget shape should we design around?"
+data-en="What is moving <i>forward.</i>"
+data-en="What is the deadline pressure?"
+data-en="When the happy path breaks, the <i>message matters.</i>"
+data-en="Where are you now?"
+data-en="Where should it live?"
+data-en="Which integration matters most?"
+data-en="Working style"
+data-filter="ai"
+data-filter="all"
+data-filter="frontend"
+data-filter="telegram"
+data-form-endpoint=""
+data-index="01"
+data-index="02"
+data-index="03"
+data-index="04"
+data-index="05"
+data-index="06"
+data-index="07"
+data-index="08"
+data-index="09"
+data-index="10"
+data-index="11"
+data-index="12"
+data-index="13"
+data-index="14"
+data-index="15"
+data-index="18"
+data-index="19"
+data-index="20"
+data-newsletter-endpoint=""
+data-note-tag="all"
+data-note-tag="llm"
+data-note-tag="search"
+data-note-tag="termux"
+data-note-tags="llm,ai,openrouter"
+data-note-tags="search,telegram,python"
+data-note-tags="termux,python,delivery"
+data-panel="architecture"
+data-panel="automation"
+data-panel="collaboration"
+data-panel="delivery"
+data-panel="frontend"
+data-panel="llm"
+data-portal-tab="handover"
+data-portal-tab="milestones"
+data-portal-tab="overview"
+data-preview="archive"
+data-preview="deepseek"
+data-preview="portfolio"
+data-project-card="archive"
+data-project-card="deepseek"
+data-project-card="portfolio"
+data-project="archive"
+data-project="deepseek"
+data-project="portfolio"
+data-proof-card="hook"
+data-proof-card="verified"
+data-proof-filter="all"
+data-proof-filter="hook"
+data-proof-filter="verified"
+data-security-layer="boundary"
+data-security-layer="input"
+data-security-layer="provider"
+data-security-layer="state"
+data-skill-category="ai"
+data-skill-category="backend"
+data-skill-category="frontend"
+data-skill-category="tooling"
+data-skill-filter="ai"
+data-skill-filter="all"
+data-skill-filter="backend"
+data-skill-filter="frontend"
+data-skill-filter="tooling"
+data-stack-projects="DeepSeek Telegram AI Bot"
+data-stack-projects="MRI PDF Archive Vault · DeepSeek Telegram AI Bot"
+data-stack-projects="MRI PDF Archive Vault"
+data-stack-projects="Personal Portfolio Website"
+data-stack-tool="Canvas API"
+data-stack-tool="HTML / CSS"
+data-stack-tool="OpenRouter"
+data-stack-tool="Python"
+data-stack-tool="SQLite"
+data-stack-tool="Telegram Bot API"
+data-status-endpoint=""
+data-tab="architecture"
+data-tab="automation"
+data-tab="collaboration"
+data-tab="delivery"
+data-tab="frontend"
+data-tab="llm"
+data-toc-bn="Accessibility"
+data-toc-bn="Deployment"
+data-toc-bn="Failure handling"
+data-toc-bn="Recruiter snapshot"
+data-toc-bn="Security"
+data-toc-bn="কাজ"
+data-toc-bn="কেস স্টাডি"
+data-toc-bn="নোট"
+data-toc-bn="প্রমাণ"
+data-toc-bn="প্রমাণের তালিকা"
+data-toc-bn="যোগাযোগ"
+data-toc-bn="সম্পর্কে"
+data-toc-bn="সিদ্ধান্ত replay"
+data-toc-label="About"
+data-toc-label="Accessibility"
+data-toc-label="Case studies"
+data-toc-label="Contact"
+data-toc-label="Decision replay"
+data-toc-label="Deployment"
+data-toc-label="Failure handling"
+data-toc-label="Notes"
+data-toc-label="Proof ledger"
+data-toc-label="Proof"
+data-toc-label="Recruiter snapshot"
+data-toc-label="Security"
+data-toc-label="Work"
+data-uptime-endpoint=""
+data-verified-in="Verified across: every public case study"
+data-verified-in="Verified in: DeepSeek Telegram AI Bot · MRI PDF Archive Vault"
+data-verified-in="Verified in: MRI PDF Archive Vault"
+data-verified-in="Verified in: Personal Portfolio Website"
+data-video-src=""
+
+## IDs
+about
+about-title
+accessibility-audit
+accessibility-audit-list
+accessibility-audit-status
+accessibility-audit-title
+accessibility-preferences
+accessibility-preferences-status
+accessibility-preferences-title
+activity
+activity-title
+ai-assistant
+ai-close
+ai-form
+ai-input
+ai-launcher
+ai-messages
+ai-note
+ai-panel
+analytics-assistant
+analytics-console
+analytics-console-note
+analytics-console-title
+analytics-projects
+analytics-recent
+analytics-source
+analytics-terminal
+analytics-visits
+anti-fit
+anti-fit-title
+api-assistant-example
+api-doc-status
+api-docs
+api-docs-title
+arch-line
+architecture-copy-link
+architecture-export
+architecture-map
+architecture-map-desc
+architecture-map-title
+architecture-status
+availability
+availability-title
+back-to-top
+before-after
+before-after-title
+bot-demo
+bot-demo-title
+bot-messages
+bot-uptime
+brief-audience
+brief-constraints
+brief-download
+brief-email
+brief-form
+brief-generator
+brief-generator-title
+brief-goal
+brief-name
+brief-output
+brief-output-text
+brief-output-title
+brief-print
+brief-status
+brief-success
+brief-telegram
+budget
+budget-archive
+budget-code
+budget-media
+budget-requests
+case-studies
+case-studies-title
+changelog-diff
+changelog-diff-output
+changelog-diff-title
+changelog-from
+changelog-to
+client-portal
+client-portal-panel
+client-portal-title
+client-portal-toggle
+code-playground
+code-playground-editor
+code-playground-output
+code-playground-run
+code-playground-title
+command-palette
+command-palette-close
+command-palette-input
+command-palette-list
+command-palette-title
+compare
+compare-problem
+compare-proof
+compare-stack
+compare-status
+compare-title
+comparison-download
+comparison-share
+comparison-status
+constellation-layer
+contact
+contact-form
+contact-qr
+contact-qr-panel
+contact-title
+copy-api-example
+currently-building-meta
+currently-building-status
+cursor-dot
+cursor-ring
+decision-replay
+decision-replay-copy
+decision-replay-evidence
+decision-replay-heading
+decision-replay-kicker
+decision-replay-project
+decision-replay-title
+deep-challenge
+deep-decision
+deep-dive-panel
+deep-kicker
+deep-outcome
+deep-preview
+deep-problem
+deep-project-link
+deep-solution
+deep-summary
+deep-thinking
+deep-title
+demo-lab
+demo-lab-title
+demo-query
+demo-reel
+demo-reel-play
+demo-reel-screen
+demo-sandbox-form
+demo-sandbox-output
+deployment-readiness
+deployment-readiness-progress
+deployment-readiness-results
+deployment-readiness-state
+deployment-readiness-title
+dialog-build
+dialog-close
+dialog-copy
+dialog-image
+dialog-kicker
+dialog-links
+dialog-outcome
+dialog-problem
+dialog-proof
+dialog-title
+download-contact-qr
+download-recruiter-snapshot
+download-vcard
+dust-layer
+email
+engineering-principles
+expertise
+expertise-title
+failure-condition
+failure-output-state
+failure-output-steps
+failure-output-summary
+failure-output-title
+failure-simulator
+failure-simulator-form
+failure-simulator-output
+failure-simulator-title
+faq
+faq-title
+feedback
+feedback-consent
+feedback-consent-form
+feedback-consent-status
+feedback-consent-title
+feedback-copy
+feedback-name
+feedback-permission
+feedback-preview
+feedback-role
+feedback-title
+fit-budget
+fit-case-study
+fit-complexity
+fit-deadline
+fit-goal
+fit-integration
+fit-platform
+fit-quiz
+fit-quiz-form
+fit-quiz-result
+fit-quiz-title
+fit-recommendation
+fit-scope
+fit-stage
+form-note
+form-status
+github-followers-count
+github-heatmap
+github-repos
+github-repos-count
+github-stars-count
+github-state
+github-stats
+github-timeline
+hero-art
+hero-project-label
+hero-project-link
+hero-promise
+hero-rotating
+hero-title
+hero-visual
+keyboard-guide
+keyboard-guide-panel
+keyboard-guide-title
+keyboard-guide-toggle
+language-toggle
+main-content
+menu-toggle
+message
+meta-case-study
+meta-case-study-title
+mobile-sticky-cta
+name
+newsletter
+newsletter-email
+newsletter-form
+newsletter-status
+newsletter-title
+notes
+notes-result-count
+notes-search
+notes-title
+now
+now-building
+now-building-title
+now-title
+onboarding
+onboarding-status
+onboarding-title
+onboarding-use-brief
+opensource
+opensource-title
+outcome-baseline
+outcome-planner
+outcome-planner-copy
+outcome-planner-copy-button
+outcome-planner-form
+outcome-planner-heading
+outcome-planner-list
+outcome-planner-result
+outcome-planner-status
+outcome-planner-title
+outcome-signal
+outcome-workflow
+outcomes
+outcomes-title
+packages
+packages-title
+panel-architecture
+panel-automation
+panel-collaboration
+panel-delivery
+panel-frontend
+panel-llm
+performance
+performance-budget
+performance-budget-title
+performance-scan-status
+performance-title
+portal-panel-content
+portrait-plate
+preference-focus-mode
+preference-high-contrast
+preference-large-text
+preference-reduced-motion
+principles-title
+print-recruiter-snapshot
+print-resume
+privacy-center
+privacy-center-title
+privacy-clear-state
+privacy-status
+process
+process-title
+profile-export
+profile-export-status
+profile-export-title
+profile-json-export
+profile-markdown-export
+profile-typing
+project-compare-select
+project-dialog
+project-rail
+project-timeline
+project-timeline-title
+project-type
+projects
+projects-title
+proof-ledger
+proof-ledger-title
+pwa-guide-title
+pwa-install-button
+pwa-install-guide
+pwa-install-status
+readiness-form
+readiness-meter
+readiness-missing
+readiness-percent
+readiness-progress
+readiness-result
+readiness-title
+reading-mode
+reading-mode-section-toggle
+reading-mode-title
+reading-mode-toggle
+reading-progress-label
+recruiter-snapshot
+recruiter-snapshot-title
+recruiter-summary
+recruiter-summary-close
+recruiter-summary-title
+recruiter-toggle
+reset-accessibility-preferences
+run-accessibility-audit
+run-deployment-checks
+run-performance-scan
+scenario-builder
+scenario-builder-title
+scenario-constraint
+scenario-form
+scenario-output
+scenario-output-copy
+scenario-output-next
+scenario-output-proof
+scenario-output-scope
+scenario-output-title
+scenario-scale
+scenario-share
+scenario-status
+scenario-type
+scroll-progress
+section-beacon
+section-beacon-label
+section-toc
+section-toc-links
+section-toc-toggle
+security-output-kicker
+security-output-protected
+security-output-review
+security-output-summary
+security-output-title
+security-output-visible
+security-posture
+security-posture-output
+security-posture-title
+services
+services-title
+simplified-toggle
+site-menu
+site-nav
+site-nav-mobile-tools
+skills
+skills-title
+snippet-backup
+snippet-focus
+snippet-library
+snippet-library-title
+snippet-status
+snippet-telegram
+stack-network
+stack-network-desc
+stack-network-readout
+stack-network-title
+status
+status-deepseek
+status-grid
+status-mri
+status-mri-meta
+status-title
+studio-terminal
+studio-terminal-title
+subject
+technical-proof
+technical-proof-title
+terminal-form
+terminal-hint
+terminal-input
+terminal-output
+terminal-typing
+theme-toggle
+toggle-contact-qr
+top
+visual-readout-status
+year
+
+## Handler anchors
+28:    ['theme-toggle','language-toggle','simplified-toggle','reading-mode-toggle','recruiter-toggle'].forEach(id => { const control = document.getElementById(id); if (control && control.parentElement !== target) target.appendChild(control); });
+708:  /* Project comparison tool */
+709:  const comparisonData = {
+715:    const data = comparisonData[key] || comparisonData.archive;
+720:    const status = $('#comparison-status'); if (status) status.textContent = '';
+723:  $('#project-compare-select')?.addEventListener('change', event => { const data = renderComparison(event.target.value); const url = new URL(window.location.href); url.searchParams.set('compare', event.target.value); window.history.replaceState({}, '', url); document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'comparison_change', label: data.name } })); });
+725:  const comparisonText = () => { const data = comparisonData[$('#project-compare-select')?.value] || comparisonData.archive; return isBn() ? `Project comparison\n\n${data.bnName}\nমূল problem: ${data.bnProblem}\nStack: ${data.stack}\nStatus: ${data.bnStatus}\nProof path: ${data.bnProof}\n\nPortfolio: ${window.location.href}` : `Project comparison\n\n${data.name}\nPrimary problem: ${data.problem}\nStack: ${data.stack}\nStatus: ${data.status}\nProof path: ${data.proof}\n\nPortfolio: ${window.location.href}`; };
+726:  $('#comparison-download')?.addEventListener('click', () => { const blob = new Blob([comparisonText()], { type: 'text/plain;charset=utf-8' }); const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'rifat-project-comparison.txt'; link.click(); URL.revokeObjectURL(link.href); const status = $('#comparison-status'); if (status) status.textContent = isBn() ? 'Comparison text brief হিসেবে download হয়েছে।' : 'Comparison downloaded as a text brief.'; });
+727:  $('#comparison-share')?.addEventListener('click', async () => { const url = new URL(window.location.href); url.searchParams.set('compare', $('#project-compare-select')?.value || 'archive'); try { await navigator.clipboard.writeText(url.href); if ($('#comparison-status')) $('#comparison-status').textContent = isBn() ? 'Shareable comparison link copy হয়েছে।' : 'Shareable comparison link copied.'; } catch (error) { window.prompt('Copy this comparison link:', url.href); } });
+759:  /* Structured project brief generator with local download/email/Telegram share */
+761:  const briefForm = $('#brief-form');
+762:  const renderBrief = values => { const name = String(values.name || (isBn() ? 'Project owner' : 'Project owner')).trim(); const bn = isBn(); const briefTitle = `${name} · ${bn ? 'project brief' : 'project brief'}`; const goal = String(values.goal || '').trim(); const audience = String(values.audience || '').trim(); const success = String(values.success || '').trim(); const constraints = String(values.constraints || '').trim() || (bn ? 'Discovery-এর সময় নির্ধারণ হবে।' : 'To be clarified during discovery.'); latestBrief = bn ? `PROJECT BRIEF\n====================\nনাম: ${name}\n\nলক্ষ্য\n${goal}\n\nপ্রধান user\n${audience}\n\nসফলতার সংজ্ঞা\n${success}\n\nConstraint, integration ও note\n${constraints}\n\nপ্রথম conversation-এর প্রস্তাব\nছোট useful version, platform, integration boundary, delivery constraint এবং প্রথম proof milestone নিশ্চিত করুন।\n\nতৈরি করা হয়েছে: ${window.location.href}` : `PROJECT BRIEF\n====================\nName: ${name}\n\nGoal\n${goal}\n\nPrimary users\n${audience}\n\nDefinition of success\n${success}\n\nConstraints, integrations and notes\n${constraints}\n\nSuggested first conversation\nConfirm the smallest useful version, platform, integration boundaries, delivery constraints and the first proof milestone.\n\nGenerated from: ${window.location.href}`; if ($('#brief-output-title')) $('#brief-output-title').textContent = briefTitle; if ($('#brief-output-text')) $('#brief-output-text').textContent = latestBrief; ['brief-download','brief-email','brief-telegram','brief-print'].forEach(id => { const node = $(`#${id}`); if (node) node.disabled = false; }); return briefTitle; };
+763:  briefForm?.addEventListener('submit', event => { event.preventDefault(); const values = Object.fromEntries(new FormData(briefForm).entries()); renderBrief(values); const status = $('#brief-status'); if (status) status.textContent = isBn() ? 'Brief তৈরি হয়েছে। এটি download করুন অথবা prepared email/Telegram message খুলুন।' : 'Brief generated. Download it or open a prepared email/Telegram message.'; document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'brief_generated' } })); });
+764:  $('#brief-download')?.addEventListener('click', () => { if (!latestBrief) return; const blob = new Blob([latestBrief], { type: 'text/plain;charset=utf-8' }); const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'rifat-project-brief.txt'; link.click(); URL.revokeObjectURL(link.href); });
+765:  $('#brief-email')?.addEventListener('click', () => { if (!latestBrief) return; window.location.href = `mailto:rashidulislamrifat14708@gmail.com?subject=${encodeURIComponent(isBn() ? 'Rifat-এর জন্য project brief' : 'Project brief for Rifat')}&body=${encodeURIComponent(latestBrief)}`; });
+766:  $('#brief-telegram')?.addEventListener('click', () => { if (!latestBrief) return; window.open(`https://t.me/share/url?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(latestBrief)}`, '_blank', 'noopener'); });
+767:  $('#brief-print')?.addEventListener('click', () => { if (!latestBrief) return; const output = $('#brief-output'); document.body.classList.add('brief-print-mode'); output?.classList.add('is-print-target'); window.setTimeout(() => { window.print(); window.setTimeout(() => { document.body.classList.remove('brief-print-mode'); output?.classList.remove('is-print-target'); }, 500); }, 30); });
+769:  /* Client onboarding handoff from the generated brief */
+770:  $('#onboarding-use-brief')?.addEventListener('click', () => { const status = $('#onboarding-status'); const message = $('#message'); if (!latestBrief) { if (status) status.textContent = isBn() ? 'আগে একটি brief তৈরি করুন।' : 'Generate a brief first, then continue here.'; document.querySelector('#brief-generator')?.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth', block: 'start' }); return; } if (message) { message.value = latestBrief; message.dispatchEvent(new Event('input', { bubbles: true })); } if (status) status.textContent = isBn() ? 'Brief contact form-এ বসানো হয়েছে। এখন send বা edit করতে পারেন।' : 'Your brief is ready in the contact form. Edit it or send it when ready.'; document.querySelector('#contact')?.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth', block: 'start' }); });
+791:  /* Proof ledger, decision replay, scenario builder and readiness signal */
+793:  const decisionData = { archive: { problem: ['Problem','Make a growing PDF library easier to search.','A useful first version starts by naming the retrieval friction clearly.','Evidence path: MRI Vault workflow and public source.'], thinking: ['Thinking','Start where the user already works.','Telegram keeps the first interaction close to the existing habit instead of introducing another dashboard.','Evidence path: Telegram-first workflow.'], tradeoff: ['Trade-off','Prefer durable local state over unnecessary infrastructure.','SQLite, fuzzy matching and explicit backup behavior keep the first system understandable and portable.','Evidence path: Python · SQLite · Termux.'], proof: ['Proof','Show the workflow, not only the claim.','The live bot, safe local demo and public repository create three inspection paths.','Evidence path: live bot · local demo · public source.'] }, deepseek: { problem: ['Problem','Bring a capable model into a focused chat loop.','The goal is not to display a model; it is to make a response useful inside Telegram.','Evidence path: active DeepSeek build.'], thinking: ['Thinking','Keep the conversation readable and purposeful.','Model routing, prompt shape and fallback behavior matter as much as the API call.','Evidence path: OpenRouter integration plan.'], tradeoff: ['Trade-off','Treat the model as a component, not the product.','A protected endpoint and clear fallback state are more important than a flashy claim of autonomy.','Evidence path: optional AI endpoint hook.'], proof: ['Proof','Publish completion evidence when the build is ready.','Until the source release is complete, the status remains explicitly in progress.','Evidence path: active build · source release follows completion.'] }, portfolio: { problem: ['Problem','Make technical work memorable and inspectable.','A portfolio must explain the decisions while staying fast to hand over and easy to deploy.','Evidence path: this public interface.'], thinking: ['Thinking','Use the smallest surface that can carry the signal.','Semantic HTML, custom CSS and vanilla JavaScript keep the experience inspectable.','Evidence path: framework-free repository.'], tradeoff: ['Trade-off','Balance motion with clarity.','Canvas effects, focus states, simplified view and reading mode coexist without hiding the content.','Evidence path: accessibility audit · reduced-motion support.'], proof: ['Proof','Let the artifact prove the practice.','The code, local assets, PWA shell and interaction states are packaged for inspection.','Evidence path: public source · deployable static package.'] } };
+794:  const renderDecisionReplay = () => { const key = $('#decision-replay-project')?.value || 'archive'; const step = $('.decision-replay__steps .is-active')?.dataset.decisionStep || 'problem'; const data = decisionData[key]?.[step] || decisionData.archive.problem; const [kicker, heading, copy, evidence] = isBn() ? ({ archive: { problem: ['সমস্যা','বড় PDF library-কে সহজে search করা।','Useful first version retrieval friction স্পষ্ট করে শুরু হয়।','প্রমাণের পথ: MRI Vault workflow ও public source।'], thinking: ['ভাবনা','User যেখানে কাজ করেন সেখান থেকেই শুরু করা।','নতুন dashboard না এনে Telegram existing habit-এর কাছাকাছি রাখে।','প্রমাণের পথ: Telegram-first workflow।'], tradeoff: ['Trade-off','অপ্রয়োজনীয় infrastructure না বাড়িয়ে durable local state রাখা।','SQLite, fuzzy matching ও explicit backup system-কে understandable ও portable রাখে।','প্রমাণের পথ: Python · SQLite · Termux।'], proof: ['প্রমাণ','শুধু claim নয়, workflow দেখানো।','Live bot, safe local demo ও public repository—তিনটি inspection path তৈরি করে।','প্রমাণের পথ: live bot · local demo · public source।'] }, deepseek: { problem: ['সমস্যা','Focused chat loop-এ capable model আনা।','লক্ষ্য শুধু model দেখানো নয়; Telegram-এর ভেতরে response useful করা।','প্রমাণের পথ: active DeepSeek build।'], thinking: ['ভাবনা','Conversation readable ও purposeful রাখা।','API call-এর মতোই model routing, prompt shape ও fallback গুরুত্বপূর্ণ।','প্রমাণের পথ: OpenRouter integration plan।'], tradeoff: ['Trade-off','Model-কে component হিসেবে দেখা, product হিসেবে নয়।','Protected endpoint ও clear fallback flashy autonomy claim-এর চেয়ে গুরুত্বপূর্ণ।','প্রমাণের পথ: optional AI endpoint hook।'], proof: ['প্রমাণ','Build complete হলে evidence publish করা।','Source release complete না হওয়া পর্যন্ত status স্পষ্টভাবে in progress থাকবে।','প্রমাণের পথ: active build · source release follows completion।'] }, portfolio: { problem: ['সমস্যা','Technical কাজকে memorable ও inspectable করা।','Portfolio-কে decision explain করতে হবে, আবার fast handover ও easy deployment-ও রাখতে হবে।','প্রমাণের পথ: এই public interface।'], thinking: ['ভাবনা','Signal বহন করার মতো ছোট surface ব্যবহার করা।','Semantic HTML, custom CSS ও vanilla JavaScript experience-কে inspectable রাখে।','প্রমাণের পথ: framework-free repository।'], tradeoff: ['Trade-off','Motion ও clarity-এর ভারসাম্য রাখা।','Canvas effect, focus state, simplified view ও reading mode content লুকায় না।','প্রমাণের পথ: accessibility audit · reduced-motion support।'], proof: ['প্রমাণ','Artifact-কেই practice-এর proof হতে দেওয়া।','Code, local asset, PWA shell ও interaction state inspection-এর জন্য package করা আছে।','প্রমাণের পথ: public source · deployable static package।'] } }[key]?.[step] || data) : data; if ($('#decision-replay-kicker')) $('#decision-replay-kicker').textContent = kicker; if ($('#decision-replay-heading')) $('#decision-replay-heading').textContent = heading; if ($('#decision-replay-copy')) $('#decision-replay-copy').textContent = copy; if ($('#decision-replay-evidence')) $('#decision-replay-evidence').textContent = evidence; };
+796:  const scenarioData = { archive: { en: ['Search a document archive','Start with normalized metadata, fuzzy matching and a clear retrieval path.','One search → result → retrieval loop with backup notes.','MRI Vault local demo + public source.','Which file metadata and recovery rule matter first?'], bn: ['Document archive search করুন','Normalized metadata, fuzzy matching ও clear retrieval path দিয়ে শুরু করুন।','একটি search → result → retrieval loop এবং backup note।','MRI Vault local demo + public source।','কোন file metadata ও recovery rule আগে দরকার?'] }, assistant: { en: ['Add an LLM assistant','Keep the assistant local-first, then connect a protected endpoint when the boundary is ready.','Curated project retrieval, prompt context and a readable fallback.','Ask About Me local mode + optional endpoint hook.','What must remain private or deterministic?'], bn: ['LLM assistant যোগ করুন','Local-first assistant রাখুন; boundary ready হলে protected endpoint যুক্ত করুন।','Curated project retrieval, prompt context ও readable fallback।','Ask About Me local mode + optional endpoint hook।','কোন অংশ private বা deterministic থাকা উচিত?'] }, automation: { en: ['Remove a repetitive task','Map the repeated step, the important state and the recovery behavior before automating.','A small Python utility with explicit input, output and backup boundaries.','Python snippets + MRI Vault backup pattern.','What should happen when the automation cannot continue?'], bn: ['Repetitive কাজ সরান','Automation-এর আগে repeated step, important state ও recovery behavior map করুন।','Explicit input, output ও backup boundary সহ ছোট Python utility।','Python snippet + MRI Vault backup pattern।','Automation continue করতে না পারলে কী হবে?'] }, interface: { en: ['Shape a responsive interface','Start with hierarchy, content priority and keyboard paths before adding decorative motion.','A focused responsive surface with accessible states and clear CTA paths.','This portfolio system + accessibility audit.','Which action should be easiest to complete?'], bn: ['Responsive interface তৈরি করুন','Decorative motion-এর আগে hierarchy, content priority ও keyboard path ঠিক করুন।','Accessible state ও clear CTA path সহ focused responsive surface।','এই portfolio system + accessibility audit।','কোন action সবচেয়ে সহজে complete হওয়া উচিত?'] } };
+799:  const renderReadiness = () => { const items = $$('[name="readiness"]'); const count = items.filter(item => item.checked).length; const percent = Math.round((count / items.length) * 100); if ($('#readiness-progress')) $('#readiness-progress').value = count; if ($('#readiness-percent')) $('#readiness-percent').textContent = `${percent}%`; const missing = items.filter(item => !item.checked).map(item => item.parentElement.textContent.trim()); if ($('#readiness-result')) $('#readiness-result').textContent = isBn() ? (percent === 100 ? 'প্রথম conversation-এর জন্য brief প্রস্তুত।' : `${percent}% discovery input প্রস্তুত।`) : (percent === 100 ? 'Your brief is ready for the first conversation.' : `${percent}% of the discovery inputs are ready.`); if ($('#readiness-missing')) $('#readiness-missing').textContent = missing.length ? `${isBn() ? 'পরবর্তী input: ' : 'Next inputs: '}${missing.join(' · ')}` : (isBn() ? 'সব প্রধান input প্রস্তুত।' : 'All primary inputs are ready.'); }; $('#readiness-form')?.addEventListener('submit', event => { event.preventDefault(); renderReadiness(); }); $$('[name="readiness"]').forEach(item => item.addEventListener('change', renderReadiness)); renderReadiness();
+802:  /* Local accessibility audit surface */
+803:  $('#run-accessibility-audit')?.addEventListener('click', () => { const images = $$('img').filter(image => !String(image.getAttribute('alt') || '').trim()).length === 0; const controls = $$('button,input,select,textarea').filter(control => control.type === 'hidden' || control.getAttribute('aria-hidden') === 'true' ? false : !(control.textContent.trim() || control.getAttribute('aria-label') || control.getAttribute('aria-labelledby') || (control.id && document.querySelector(`label[for="${CSS.escape(control.id)}"]`)) || control.closest('label'))).length === 0; const checks = { images, controls, focus: CSS.supports('selector(:focus-visible)'), motion: window.matchMedia('(prefers-reduced-motion: reduce)').matches || document.documentElement.dataset.view === 'simple' || [...document.styleSheets].some(sheet => { try { return [...sheet.cssRules].some(rule => String(rule.conditionText || '').includes('prefers-reduced-motion')); } catch (_) { return false; } }), language: ['en','bn'].includes(document.documentElement.dataset.language || 'en') }; Object.entries(checks).forEach(([key, pass]) => { const item = document.querySelector(`[data-audit="${key}"] strong`); if (item) { item.textContent = pass ? (isBn() ? 'পাস' : 'pass') : (isBn() ? 'চেক করুন' : 'check'); item.dataset.state = pass ? 'pass' : 'check'; } }); const status = $('#accessibility-audit-status'); if (status) status.textContent = isBn() ? `${Object.values(checks).filter(Boolean).length}/${Object.keys(checks).length}টি local check পাস করেছে। এটি certification নয়।` : `${Object.values(checks).filter(Boolean).length}/${Object.keys(checks).length} local checks passed. This is not certification.`; });
+806:  const changelogData = { v15: { label: 'v15 · proof layer', items: ['Command palette, Ask About Me and verified skill evidence', 'Reading progress, print résumé and status boundary', 'Bengali/English localization and local analytics posture'], bn: ['Command palette, Ask About Me ও verified skill evidence', 'Reading progress, print résumé ও status boundary', 'Bengali/English localization ও local analytics posture'] }, v16: { label: 'v16 · interactive lab', items: ['Safe demo sandbox, workflow reel and educational code preview', 'Recruiter mode, onboarding flow and Print/PDF brief action', 'RSS feed, case-study metadata and accessibility audit surface'], bn: ['Safe demo sandbox, workflow reel ও educational code preview', 'Recruiter mode, onboarding flow ও Print/PDF brief action', 'RSS feed, case-study metadata ও accessibility audit surface'] }, v17: { label: 'v17 · accessibility pass', items: ['Fresh service-worker cache and stale-script QA reset', 'Full local accessibility audit with explicit non-certification boundary', 'Expanded proof, decision replay, scenario and readiness features'], bn: ['Fresh service-worker cache ও stale-script QA reset', 'স্পষ্ট non-certification boundary-সহ full local accessibility audit', 'Expanded proof, decision replay, scenario ও readiness feature'] }, v18: { label: 'v18 · decision layer', items: ['Proof ledger with verified claims and configuration hooks', 'Scenario builder, readiness signal and architecture export', 'Engineering principles, API boundary notes and portable profile export'], bn: ['Verified claim ও configuration hook-সহ proof ledger', 'Scenario builder, readiness signal ও architecture export', 'Engineering principles, API boundary note ও portable profile export'] } };
+807:  const renderChangelogDiff = () => { const from = changelogData[$('#changelog-from')?.value || 'v15']; const to = changelogData[$('#changelog-to')?.value || 'v18']; const output = $('#changelog-diff-output'); if (!output || !from || !to) return; output.innerHTML = ''; const kicker = document.createElement('span'); kicker.className = 'caps'; kicker.textContent = isBn() ? 'Release comparison' : 'Release comparison'; const heading = document.createElement('h3'); heading.textContent = `${from.label} → ${to.label}`; const list = document.createElement('ul'); to.items.forEach((item, index) => { const li = document.createElement('li'); li.textContent = isBn() ? (to.bn?.[index] || item) : item; list.appendChild(li); }); output.append(kicker, heading, list); };
+812:  const downloadFile = (name, text, type) => { const blob = new Blob([text], { type }); const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = name; link.click(); URL.revokeObjectURL(link.href); };
+813:  $('#profile-json-export')?.addEventListener('click', () => { downloadFile('rifat-profile.json', JSON.stringify(profileData, null, 2), 'application/json;charset=utf-8'); if ($('#profile-export-status')) $('#profile-export-status').textContent = isBn() ? 'JSON profile download হয়েছে।' : 'JSON profile downloaded.'; }); $('#profile-markdown-export')?.addEventListener('click', () => { const markdown = `# ${profileData.name}\n\n**Role:** ${profileData.role}\n\n**Location:** ${profileData.location}\n\n## Focus\n${profileData.focus.map(item => `- ${item}`).join('\n')}\n\n## Proof\n${profileData.proof.map(item => `- ${item}`).join('\n')}\n\n**Contact:** ${profileData.contact}\n**GitHub:** ${profileData.github}\n`; downloadFile('rifat-profile.md', markdown, 'text/markdown;charset=utf-8'); if ($('#profile-export-status')) $('#profile-export-status').textContent = isBn() ? 'Markdown profile download হয়েছে।' : 'Markdown profile downloaded.'; });
+830:  $$('[data-booking-url]').forEach(button => button.addEventListener('click', event => { const url = button.dataset.bookingUrl?.trim(); if (url) { event.preventDefault(); window.open(url, '_blank', 'noopener');     } else { event.preventDefault(); const status = $('#form-status'); if (status) status.textContent = isBn() ? 'Booking link এখনো configured নয়। একটি project brief পাঠান; আমি পরবর্তী available সময় জানাব।' : 'Booking link is not configured yet. Please send a project brief and I will reply with the next available time.'; document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'booking_intent' } })); $('#brief-generator')?.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth' }); } }));
+837:  const sectionNamesBn = { about: 'সম্পর্কে', services: 'সেবাসমূহ', projects: 'কাজ', expertise: 'দক্ষতা', 'case-studies': 'কেস স্টাডি', 'architecture-map': 'আর্কিটেকচার', 'technical-proof': 'প্রমাণ', activity: 'অ্যাক্টিভিটি', opensource: 'Open-source', notes: 'নোট', 'now-building': 'চলমান কাজ', 'studio-terminal': 'টার্মিনাল', compare: 'তুলনা', 'fit-quiz': 'প্রজেক্ট ফিট', 'brief-generator': 'ব্রিফ', performance: 'পারফরম্যান্স', feedback: 'ফিডব্যাক', availability: 'অ্যাভেইলেবিলিটি', 'client-portal': 'ক্লায়েন্ট পোর্টাল', skills: 'স্কিল', process: 'প্রক্রিয়া', faq: 'প্রশ্ন', newsletter: 'Build Notes', 'analytics-console': 'অ্যানালিটিক্স', contact: 'যোগাযোগ' };
+858:    overview: { kicker: 'Active brief', bnKicker: 'active brief', title: 'Telegram document workflow', bnTitle: 'Telegram document workflow', copy: 'Focused first version: searchable PDF retrieval with a clear backup path.', bnCopy: 'focused first version: clear backup path সহ searchable PDF retrieval।', metrics: ['02 milestones', '03 handover notes', '01 active brief'] },
+870:  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(() => {}));
+941:  /* Privacy-safe analytics hooks and optional owner console */
+942:  const analyticsKey = 'rifat-portfolio-analytics';
+943:  const readAnalytics = () => { try { return JSON.parse(localStorage.getItem(analyticsKey) || '[]'); } catch (error) { return []; } };
+944:  const writeAnalytics = events => { try { localStorage.setItem(analyticsKey, JSON.stringify(events.slice(-200))); } catch (error) { /* storage may be disabled */ } };
+949:  const analyticsConsole = $('#analytics-console');
+950:  const analyticsQuery = new URLSearchParams(window.location.search);
+951:  const analyticsEndpoint = analyticsConsole?.dataset.analyticsEndpoint?.trim();
+953:    if (!analyticsConsole) return;
+955:    if (analyticsEndpoint) { try { const response = await fetch(analyticsEndpoint, { headers: { Accept: 'application/json' } }); if (response.ok) stats = await response.json(); } catch (error) { /* local mode remains available */ } }
+958:    const visitsNode = $('#analytics-visits'); const projectNode = $('#analytics-projects'); const assistantNode = $('#analytics-assistant'); const terminalNode = $('#analytics-terminal');
+963:    const source = $('#analytics-source'); if (source) source.textContent = stats ? 'protected endpoint' : 'local browser mode';
+964:    const recent = $('#analytics-recent');
+967:    const note = $('#analytics-console-note'); if (note && analyticsEndpoint && !stats) note.textContent = 'The configured analytics endpoint did not respond; local browser mode is shown.';
+969:  if (analyticsConsole && analyticsQuery.get('analytics') === '1') { analyticsConsole.hidden = false; renderAnalytics(); }
+972:  const newsletterForm = $('#newsletter-form');
+973:  const newsletterStatus = $('#newsletter-status');
+974:  newsletterForm?.addEventListener('submit', async event => {
+976:    const email = String(new FormData(newsletterForm).get('email') || '').trim();
+977:    if (!email || !email.includes('@')) { if (newsletterStatus) newsletterStatus.textContent = isBn() ? 'সঠিক email address দিন।' : 'Please enter a valid email address.'; return; }
+978:    const endpoint = (newsletterForm.dataset.newsletterEndpoint || '').trim();
+979:    if (endpoint) { if (newsletterStatus) newsletterStatus.textContent = isBn() ? 'আপনার subscription save করা হচ্ছে…' : 'Saving your subscription…'; try { const response = await fetch(endpoint, { method: 'POST', headers: { Accept: 'application/json', 'Content-Type': 'application/json' }, body: JSON.stringify({ email, source: 'Build Notes' }) }); if (!response.ok) throw new Error('Subscription failed');       newsletterForm.reset(); if (newsletterStatus) newsletterStatus.textContent = isBn() ? 'আপনি Build Notes list-এ যুক্ত হয়েছেন।' : 'You are on the Build Notes list.'; trackEvent({ name: 'newsletter_subscribe' }); return;     } catch (error) { if (newsletterStatus) newsletterStatus.textContent = isBn() ? 'Provider unavailable; email request খোলা হচ্ছে।' : 'Provider unavailable; opening an email request instead.'; } }
+984:  const recruiterToggle = $('#recruiter-toggle');
+985:  const recruiterSummary = $('#recruiter-summary');
+986:  const recruiterClose = $('#recruiter-summary-close');
+987:  const applyRecruiterMode = active => { document.documentElement.dataset.audience = active ? 'recruiter' : 'public'; localStorage.setItem('rifat-recruiter-mode', active ? 'on' : 'off'); if (recruiterToggle) { recruiterToggle.setAttribute('aria-pressed', String(active)); recruiterToggle.setAttribute('aria-label', active ? 'Close recruiter mode' : 'Open recruiter mode'); recruiterToggle.textContent = isBn() ? (active ? 'পূর্ণ' : 'Recruiter') : (active ? 'Full' : 'Recruiter'); } if (recruiterSummary) recruiterSummary.hidden = !active; };
+988:  const savedRecruiterMode = localStorage.getItem('rifat-recruiter-mode') === 'on';
+990:  recruiterToggle?.addEventListener('click', () => applyRecruiterMode(document.documentElement.dataset.audience !== 'recruiter'));
+991:  recruiterClose?.addEventListener('click', () => applyRecruiterMode(false));
+1060:    'Home':'হোম','Sections':'সেকশনসমূহ','About':'সম্পর্কে','Services':'সেবাসমূহ','Work':'কাজ','Case studies':'কেস স্টাডি','Proof':'প্রমাণ','Notes':'নোট','Contact':'যোগাযোগ','Build Notes':'বিল্ড নোটস','Process':'প্রক্রিয়া','Hire Me':'আমাকে নিয়োগ করুন','Skip to content':'মূল কনটেন্টে যান','Open menu':'মেনু খুলুন','Close menu':'মেনু বন্ধ করুন','Primary navigation':'প্রধান নেভিগেশন','Quick contact links':'দ্রুত যোগাযোগের লিংক','Display and language tools':'ডিসপ্লে ও ভাষা টুল','Switch to light theme':'লাইট থিমে যান','Switch to dark theme':'ডার্ক থিমে যান','Switch to Bengali':'বাংলায় যান','Switch to English':'ইংরেজিতে যান','Available for selected collaborations':'নির্বাচিত collaboration-এর জন্য available','Building':'তৈরি করি','useful':'উপযোগী','Telegram AI Bots':'Telegram AI বট','LLM Systems':'LLM সিস্টেম','Responsive Web Apps':'responsive web app','Agentic AI Workflows':'agentic AI workflow','System status':'সিস্টেমের অবস্থা','Available for focused collaborations':'focused collaboration-এর জন্য available','Where the work leads':'কাজের লক্ষ্য','I turn complex AI ideas into practical systems people can use.':'আমি জটিল AI idea-কে ব্যবহারযোগ্য practical system-এ রূপ দিই।','A featured deployment':'একটি উল্লেখযোগ্য deployment','Explore my work':'আমার কাজ দেখুন','See services →':'সেবাগুলো দেখুন →','3+ shipped projects. No signup needed.':'৩টির বেশি shipped project। signup প্রয়োজন নেই।','Built with care, tested in the real world.':'যত্নসহকারে তৈরি, বাস্তব ব্যবহারে tested।','Narsingdi, Bangladesh · UTC +6':'নরসিংদী, বাংলাদেশ · UTC +৬','Profile portrait':'প্রোফাইল portrait','Personal brand':'ব্যক্তিগত brand','AVAILABLE':'AVAILABLE','Available':'AVAILABLE','Three ways to explore the work':'কাজ দেখার তিনটি পথ','See all projects →':'সব project দেখুন →','Telegram storage & retrieval':'Telegram storage ও retrieval','Conversational AI interface':'conversational AI interface','Single-page web experience':'single-page web experience','Telegram AI bots':'Telegram AI bot','Useful systems, not demos.':'শুধু demo নয়, ব্যবহারযোগ্য system।','From model to interface.':'model থেকে interface পর্যন্ত।','Open for focused work':'focused কাজের জন্য open','The engineer behind the systems':'system-এর পেছনের engineer','I turn ambitious ideas into':'আমি ambitious idea-কে','useful software.':'ব্যবহারযোগ্য software-এ রূপ দিই।','Useful by design':'design-এ usefulness','I start with the real problem, not the loudest feature.':'আমি flashy feature নয়, বাস্তব problem দিয়ে শুরু করি।','Clear by default':'শুরু থেকেই clear','I shape complex systems into interfaces people can understand.':'জটিল system-কে এমন interface-এ রূপ দিই যা মানুষ বুঝতে পারে।','Built to ship':'ship করার মতো build','I care about dependable delivery, thoughtful details, and steady iteration.':'নির্ভরযোগ্য delivery, thoughtful detail এবং steady iteration-কে গুরুত্ব দিই।','shipped projects':'shipped project','core language':'মূল language','AI architecture':'AI architecture','Explore my capabilities':'আমার capabilities দেখুন','Open to focused collaborations':'focused collaboration-এর জন্য open','Start a conversation':'কথা শুরু করুন','Ready for hiring':'hiring-এর জন্য ready','What I can build':'আমি যা build করতে পারি','Practical systems, shaped for':'বাস্তব কাজের জন্য গড়া','real work.':'প্রয়োজনীয় system।','Choose a starting point or bring a workflow that needs a clearer, more useful shape. I work from the problem outward, keeping the first version focused and ready to grow.':'একটি starting point বেছে নিন অথবা এমন workflow নিয়ে আসুন যার আরও clear ও useful shape প্রয়োজন। আমি problem থেকে শুরু করে focused এবং grow করার মতো first version তৈরি করি।','Useful assistants, document tools, search flows and conversational bots that live where your users already work.':'আপনার user যেখানে কাজ করেন, সেখানেই useful assistant, document tool, search flow ও conversational bot তৈরি করি।','Bot flows':'Bot flow','Document search':'Document search','Admin tools':'Admin tool','Purpose-built OpenRouter and DeepSeek workflows with prompt design, sensible fallbacks and human-readable results.':'prompt design, sensible fallback ও human-readable result সহ purpose-built OpenRouter এবং DeepSeek workflow তৈরি করি।','RAG flows':'RAG flow','Prompt design':'Prompt design','Small utilities that remove repetitive work, protect important state and make everyday operations easier to repeat.':'repetitive কাজ কমায়, গুরুত্বপূর্ণ state সুরক্ষিত রাখে এবং everyday কাজ repeatable করে—এমন ছোট utility তৈরি করি।','File systems':'File system','Backups':'Backup','Editorial landing pages, portfolios and focused web experiences with clear hierarchy, responsive behavior and deliberate motion.':'clear hierarchy, responsive behavior ও deliberate motion সহ editorial landing page, portfolio এবং focused web experience তৈরি করি।','Canvas UI':'Canvas UI','Best for':'যাদের জন্য উপযোগী','Founders, small teams and independent builders who need a practical first version without unnecessary noise.':'Founder, ছোট team এবং independent builder—যাদের অপ্রয়োজনীয় noise ছাড়া practical first version প্রয়োজন।','Discuss a build →':'একটি build নিয়ে আলোচনা করুন →','Try the toolkit':'toolkit পরীক্ষা করুন','Six ways I build':'আমি যেভাবে build করি তার ছয়টি পথ','useful systems.':'ব্যবহারযোগ্য system।','Different product questions need different engineering paths. Choose a track to see how I approach the work, from first scope to a stable interface people can actually use.':'ভিন্ন product question-এর জন্য ভিন্ন engineering path প্রয়োজন। প্রথম scope থেকে ব্যবহারযোগ্য stable interface পর্যন্ত আমি কীভাবে কাজ করি তা দেখতে একটি track বেছে নিন।','The build arc':'build-এর ধাপ','Map the system':'system map করি','Connect intelligence':'intelligence connect করি','Remove the repeat':'repeat কাজ সরাই','Shape the experience':'experience shape করি','Go further':'আরও এগিয়ে','Ship with confidence':'confidence-এর সঙ্গে ship করি','Build together':'একসঙ্গে build করি','A clear system before a clever feature':'clever feature-এর আগে clear system','Architecture that stays understandable.':'বোঝা যায় এমন architecture।','I break a product into dependable layers—interfaces, data, integrations, and access rules—so a project can grow without becoming fragile.':'আমি product-কে dependable interface, data, integration ও access rule layer-এ ভাগ করি, যাতে project fragile না হয়ে grow করতে পারে।','Discuss an architecture →':'architecture নিয়ে আলোচনা করুন →','Models are components, not the product':'model একটি component, product নয়','LLM integrations built around purpose.':'উদ্দেশ্যকে কেন্দ্র করে LLM integration।','I connect OpenRouter, DeepSeek R1, and other model APIs to workflows that have useful prompts, clear fallbacks, and a human-readable result.':'useful prompt, clear fallback এবং human-readable result সহ workflow-এ OpenRouter, DeepSeek R1 ও অন্যান্য model API connect করি।','See the AI bot work →':'AI bot-এর কাজ দেখুন →','Make repetitive work disappear':'repetitive কাজ অদৃশ্য করি','Small utilities with a large payoff.':'ছোট utility, বড় ফলাফল।','From file indexing to scheduled backups and reading progress, I build Python utilities that reduce friction and keep the important state safe.':'file indexing, scheduled backup ও reading progress-এর মতো Python utility তৈরি করি যা friction কমায় এবং গুরুত্বপূর্ণ state নিরাপদ রাখে।','Automate a workflow →':'একটি workflow automate করুন →','A fast interface should still feel considered':'দ্রুত interface-ও thoughtful হওয়া উচিত','Frontend work with editorial polish.':'editorial polish সহ frontend কাজ।','I use HTML, modern CSS, and vanilla JavaScript to create responsive interfaces with deliberate motion, clear hierarchy, and accessible interactions.':'HTML, modern CSS ও vanilla JavaScript দিয়ে deliberate motion, clear hierarchy এবং accessible interaction সহ responsive interface তৈরি করি।','See this portfolio →':'এই portfolio দেখুন →','A project is not finished at the first demo':'প্রথম demo-তেই project শেষ নয়','Delivery that respects the real world.':'বাস্তব জগতকে সম্মান করা delivery।','I care about deployment paths, readable code, performance, and the small handover details that make a project easier to maintain.':'deployment path, readable code, performance এবং project maintain করা সহজ করে এমন handover detail-কে গুরুত্ব দিই।','Review the process →':'process দেখুন →','A strong build starts with a shared picture':'একটি strong build shared picture দিয়ে শুরু হয়','Collaboration without unnecessary noise.':'অপ্রয়োজনীয় noise ছাড়া collaboration।','I begin by clarifying the goal, constraints, and success criteria, then keep communication focused while the product takes shape.':'goal, constraint ও success criteria clear করে শুরু করি, তারপর product shape নেওয়ার সময় communication focused রাখি।','Let’s collaborate →':'চলুন একসঙ্গে কাজ করি →','Rifat’s build notes.':'Rifat-এর build notes।','Every tool has a purpose →':'প্রতিটি tool-এর একটি purpose আছে →','Selected deployments':'নির্বাচিত deployment','Work that moved from':'যে কাজ এগিয়েছে','idea to interface.':'idea থেকে interface পর্যন্ত।','A small portfolio, deliberately focused on systems I have actually designed, built, tested, and shipped.':'আমি সত্যিই design, build, test ও ship করেছি—এমন system-কে কেন্দ্র করে তৈরি একটি focused portfolio।','Filter the archive':'archive filter করুন','All':'সব','AI / LLM':'AI / LLM','Frontend':'frontend','Telegram':'Telegram','View case study ↗':'case study দেখুন ↗','Search. Retrieve. Ship.':'Search করুন। Retrieve করুন। Ship করুন।','Shipped':'Shipped','Telegram-based PDF storage and retrieval with smart categorization, fuzzy search, reading progress tracking, and automated backups running on Termux.':'Termux-এ চলা smart categorization, fuzzy search, reading progress ও automated backup সহ Telegram-based PDF storage ও retrieval system।','Live bot + public source code.':'Live bot + public source code।','Live Bot ↗':'Live Bot ↗','Source Code ↗':'Source Code ↗','Connect model to moment.':'model-কে মুহূর্তের সঙ্গে connect করি।','In progress':'চলমান কাজ','A conversational Telegram chatbot integrating DeepSeek R1 through OpenRouter API for real-time AI conversations inside Telegram.':'OpenRouter API-এর মাধ্যমে DeepSeek R1 integrate করা conversational Telegram chatbot, যা Telegram-এর ভেতরে real-time AI conversation চালায়।','Active build plan; source release follows completion.':'Active build plan; completion-এর পরে source release হবে।','Source code coming soon':'Source code শীঘ্রই আসছে','Make the interface memorable.':'interface-কে memorable করি।','Live interface + public source code.':'Live interface + public source code।','Live Demo ↗':'Live Demo ↗','See the system in motion':'system-কে motion-এ দেখুন','A Telegram archive that feels':'যে Telegram archive মনে হয়','searchable.':'সহজে searchable।','Before a client opens Telegram, this small interactive preview shows the core loop: search a library, retrieve a file, and keep the system useful under everyday pressure.':'client Telegram খোলার আগে এই ছোট interactive preview core loop দেখায়: library search, file retrieve এবং everyday pressure-এ system useful রাখা।','Document vault · Telegram workflow':'document vault · Telegram workflow','Public demo':'public demo','Welcome back. What would you like to find?':'আবার স্বাগতম। কী খুঁজতে চান?','Search for “MRI workflow”':'“MRI workflow” খুঁজুন','12 results found.':'১২টি result পাওয়া গেছে।','Showing the closest matches with title, category and reading progress.':'title, category ও reading progress অনুযায়ী সবচেয়ে কাছের match দেখানো হচ্ছে।','Search PDFs':'PDF search করুন','Retrieve a file':'একটি file retrieve করুন','Show backup flow':'backup flow দেখান','Simulated walkthrough · no Telegram message is sent from this preview.':'Simulated walkthrough · এই preview থেকে কোনো Telegram message পাঠানো হয় না।','What the client sees':'client যা দেখেন','Less friction between a document and the moment it matters.':'document এবং প্রয়োজনের মুহূর্তের মধ্যে কম friction।','Fuzzy search, categorisation, reading progress and automated backups are presented as one calm workflow. The live bot remains one click away when the preview has done its job.':'fuzzy search, categorisation, reading progress ও automated backup-কে একটি calm workflow হিসেবে দেখানো হয়েছে। preview-এর কাজ শেষ হলে live bot এক click দূরে।','Link status':'link status','Open in Telegram':'Telegram-এ খুলুন','Monitoring endpoint not configured':'monitoring endpoint configured নয়','Open the live bot →':'live bot খুলুন →','Optional uptime monitoring can be connected later through a public JSON status endpoint; no uptime percentage is invented here.':'public JSON status endpoint-এর মাধ্যমে পরে optional uptime monitoring যুক্ত করা যাবে; এখানে কোনো uptime percentage বানিয়ে দেখানো হয়নি।','Before / after':'আগে / পরে','The value is in the':'মূল value হলো','friction removed.':'যে friction সরানো হয়েছে।','A project story is more useful when it shows the change in the workflow—not only the feature list.':'project story তখনই বেশি useful হয় যখন feature list নয়, workflow-এর পরিবর্তনও দেখায়।','Before · manual retrieval':'আগে · manual retrieval','Remember the filename. Search through folders. Lose the thread.':'filename মনে রাখুন। folder ঘেঁটে search করুন। context হারান।','Important PDFs lived in a growing library where imperfect memory made retrieval slow and repeatable work easy to postpone.':'গুরুত্বপূর্ণ PDF বড় হতে থাকা library-তে ছিল, যেখানে অসম্পূর্ণ স্মৃতির কারণে retrieval ধীর এবং repeat কাজ পিছিয়ে যেত।','After · MRI Vault workflow':'পরে · MRI Vault workflow','Search by intent. Retrieve the file. Continue the work.':'উদ্দেশ্য অনুযায়ী search করুন। file retrieve করুন। কাজ চালিয়ে যান।','Telegram, fuzzy matching, metadata, reading progress and backups turn storage into a calmer, searchable system.':'Telegram, fuzzy matching, metadata, reading progress ও backup storage-কে আরও calm ও searchable system-এ রূপ দেয়।','How I think through a build':'আমি যেভাবে build নিয়ে ভাবি','From problem to':'problem থেকে','proof.':'proof পর্যন্ত।','A deeper look at the decisions behind each project: what made the problem real, which trade-offs mattered, and how the first useful version took shape.':'প্রতিটি project-এর পেছনের decision, বাস্তব problem, গুরুত্বপূর্ণ trade-off এবং first useful version কীভাবে তৈরি হয়েছে তার গভীর look।','Problem':'Problem','Thinking':'Thinking','Technical decision':'Technical decision','Challenge':'Challenge','Solution':'Solution','Outcome':'Outcome','Open visual case study ↗':'visual case study খুলুন ↗','Open project link →':'project link খুলুন →','Interactive architecture':'interactive architecture','See how the':'দেখুন কীভাবে','pieces connect.':'piece-গুলো connect হয়।','A compact map of the MRI Vault pattern: interface, state, search, storage and recovery working as one understandable system.':'MRI Vault pattern-এর compact map: interface, state, search, storage ও recovery একটি understandable system হিসেবে কাজ করে।','Interface':'Interface','Decision layer':'decision layer','Durable state':'durable state','Recovery path':'recovery path','Technical proof':'technical proof','Show the decisions behind the':'দেখুন interface-এর পেছনের','interface.':'decision-গুলো।','Clients and recruiters can inspect the trade-offs, failure handling, security posture and lessons learned—not only the polished surface.':'client এবং recruiter polished surface নয়, trade-off, failure handling, security posture ও lessons learned-ও দেখতে পারবেন।','Demo / workflow':'demo / workflow','SEARCH → RETRIEVE':'SEARCH → RETRIEVE','Search:':'Search:','Ranked by fuzzy match, category and progress.':'fuzzy match, category ও progress অনুযায়ী ranked।','Backup path ready':'backup path ready','Safe embedded preview · no external Telegram session or private data is loaded.':'safe embedded preview · কোনো external Telegram session বা private data load করা হয়নি।','Trade-offs / failure handling':'trade-off / failure handling','Useful systems stay understandable when the happy path breaks.':'happy path break করলেও useful system understandable থাকে।','Decision':'decision','Keep Telegram as the low-friction interface and SQLite as durable local state.':'Telegram-কে low-friction interface এবং SQLite-কে durable local state হিসেবে রাখি।','Failure path':'failure path','Use readable fallback messages, preserve user state and make backup/recovery behavior explicit.':'readable fallback message ব্যবহার করি, user state রাখি এবং backup/recovery behavior স্পষ্ট করি।','Security':'security','Never expose tokens in static files; keep external endpoints optional and server-configured.':'static file-এ token কখনও expose করি না; external endpoint optional ও server-configured রাখি।','Lesson':'lesson','Ship one complete workflow first, then expand only when real usage reveals the next constraint.':'আগে একটি complete workflow ship করি, real usage পরবর্তী constraint দেখালে expand করি।','Public work signal':'public work signal','A live window into the':'আমার workbench-এর live window','workbench.':'','This widget reads public GitHub repository data in the browser. It shows a current snapshot of shipped work and recent repository movement without pretending to expose private contribution data.':'এই widget browser-এ public GitHub repository data পড়ে। এটি shipped work ও recent repository movement-এর snapshot দেখায়, private contribution data দেখানোর ভান করে না।','GitHub / public snapshot':'GitHub / public snapshot','Loading…':'লোড হচ্ছে…','public repos':'public repo','stars received':'প্রাপ্ত star','followers':'follower','Fetching recently updated public repositories…':'সাম্প্রতিক updated public repository আনা হচ্ছে…','Loading public activity timeline…':'public activity timeline লোড হচ্ছে…','Open GitHub profile →':'GitHub profile খুলুন →','What this proves':'এতে যা প্রমাণ হয়','Activity with context, not a vanity counter.':'vanity counter নয়, context-সহ activity।','The snapshot counts public repositories, stars and recent update signals. Exact contribution graphs require authenticated GitHub access, so this widget stays within what the public API can verify.':'snapshot public repository, star ও recent update signal count করে। exact contribution graph-এর জন্য authenticated GitHub access প্রয়োজন, তাই widget public API যা verify করতে পারে তার মধ্যেই থাকে।','Data source':'data source','Open-source timeline':'open-source timeline','A clearer trail from repo to':'repo থেকে','release.':'release পর্যন্ত clear trail।','A structured public-work signal: repository, current state, documentation, reusable utilities and the next visible milestone.':'repository, current state, documentation, reusable utility ও পরবর্তী visible milestone-এর structured public-work signal।','Repository ↗':'repository ↗','Active build':'active build','Release follows completion':'completion-এর পরে release','Reusable practice':'reusable practice','Field notes':'field notes','Small observations from':'ছোট observation','the build.':'build-এর','Short technical notes about the decisions behind the work. They are intentionally compact: useful enough to start a conversation, open enough to invite a deeper one.':'কাজের পেছনের decision নিয়ে ছোট technical note। conversation শুরু করার মতো useful, কিন্তু আরও আলোচনার জন্য open।','Search systems':'search system','How I approach fuzzy search inside a Telegram archive':'Telegram archive-এ fuzzy search যেভাবে করি','Search becomes useful when a person does not need to remember the exact title. I think about the user’s imperfect query first, then combine normalised text, close matches and useful metadata so the result feels forgiving without becoming mysterious.':'কাউকে exact title মনে রাখতে না হলে search useful হয়। user-এর imperfect query আগে ভাবি, তারপর normalised text, close match ও useful metadata মিলিয়ে forgiving কিন্তু understandable result তৈরি করি।','Build environment':'build environment','Why Termux is part of my engineering practice':'Termux কেন আমার engineering practice-এর অংশ','Working across Android and Windows keeps the engineering question honest: can the system run, recover and remain understandable outside a perfect setup? Termux makes that constraint visible, which often leads to simpler choices and clearer handover notes.':'Android ও Windows দু জায়গায় কাজ করলে engineering question বাস্তব থাকে: perfect setup-এর বাইরে system কি run, recover ও understandable থাকতে পারে? Termux সেই constraint স্পষ্ট করে এবং simpler choice ও clearer handover note-এর দিকে নিয়ে যায়।','LLM workflows':'LLM workflow','The practical layer between a model and a useful product':'model ও useful product-এর মাঝের practical layer','An LLM is a component, not the product. The useful layer is the workflow around it: a focused prompt, predictable fallbacks, a place for state, and an interface that makes the answer understandable enough to act on.':'LLM একটি component, product নয়। useful layer হলো এর চারপাশের workflow: focused prompt, predictable fallback, state রাখার জায়গা এবং action নেওয়ার মতো understandable interface।','Now building':'এখন build করছি','A visible trail of':'দৃশ্যমান trail','steady work.':'steady work-এর।','A small changelog keeps the portfolio honest: active work, the next milestone and what is deliberately still in progress.':'ছোট changelog portfolio-কে honest রাখে: active work, next milestone এবং ইচ্ছাকৃতভাবে in progress থাকা অংশ।','Active':'active','Maintained':'maintained','Adding proof, accessible interactions and clear pathways for the next collaboration.':'proof, accessible interaction ও পরবর্তী collaboration-এর clear pathway যোগ করছি।','Command surface':'command surface','Try the studio':'studio পরীক্ষা করুন','from the prompt.':'prompt থেকে।','A small command-line directory for visitors who prefer to explore through the same `rifat@studio:~$` language used across the portfolio.':'যারা command line পছন্দ করেন তাদের জন্য ছোট directory—portfolio-তে ব্যবহৃত `rifat@studio:~$` language-এই explore করুন।','interactive portfolio shell':'interactive portfolio shell','Available commands:':'available command:','Type a terminal command':'terminal command লিখুন','Run':'চালান','Commands are simulated locally; no system access is requested.':'command local-ভাবে simulated; কোনো system access চাওয়া হয় না।','Compare the work':'কাজ compare করুন','Choose a system. See the':'একটি system বেছে দেখুন','shape.':'তার shape।','Compare the three public project directions by problem, stack, status and proof path.':'problem, stack, status ও proof path অনুযায়ী তিনটি public project direction compare করুন।','Project to inspect':'যে project দেখবেন','Primary problem':'মূল problem','Document retrieval':'document retrieval','Status':'status','Proof path':'proof path','Download comparison':'comparison download করুন','Copy shareable link':'shareable link copy করুন','Project fit 2.0':'Project fit ২.০','Start with the':'শুরু করুন','right question.':'সঠিক প্রশ্ন দিয়ে।','Share the shape of the project and get a practical service recommendation, starting scope and relevant case study—not a vague service list.':'project-এর shape জানিয়ে practical service recommendation, starting scope ও relevant case study পান—vague service list নয়।','What are you trying to improve?':'আপনি কী improve করতে চান?','A Telegram workflow':'একটি Telegram workflow','An LLM-powered feature':'একটি LLM-powered feature','A repetitive process':'একটি repetitive process','A web interface':'একটি web interface','Where are you now?':'আপনার বর্তমান অবস্থান কী?','Just an idea':'শুধু একটি idea','Prototype exists':'prototype আছে','Already live':'ইতিমধ্যে live','What budget shape should we design around?':'কোন budget range ধরে design করব?','Lean first version · under $300':'lean first version · $300-এর কম','Focused build · $300–$750':'focused build · $300–$750','Growth build · $750+':'growth build · $750+','Not sure yet':'এখনও নিশ্চিত নয়','What is the deadline pressure?':'deadline pressure কেমন?','Flexible · quality first':'flexible · quality first','Within 1 month':'১ মাসের মধ্যে','Within 2 weeks':'২ সপ্তাহের মধ্যে','Where should it live?':'এটি কোথায় চলবে?','Web / responsive browser':'web / responsive browser','Telegram + web':'Telegram + web','Termux / self-hosted':'Termux / self-hosted','Which integration matters most?':'কোন integration সবচেয়ে গুরুত্বপূর্ণ?','LLM / AI API':'LLM / AI API','Files / search / storage':'file / search / storage','Automation / notifications':'automation / notification','No integration yet':'এখনও কোনো integration নেই','How complex is the first useful version?':'প্রথম useful version কতটা complex?','One focused workflow':'একটি focused workflow','Several connected workflows':'কয়েকটি connected workflow','A product foundation':'একটি product foundation','Build my recommendation →':'আমার recommendation তৈরি করুন →','Your recommendation will appear here.':'আপনার recommendation এখানে দেখা যাবে।','Answer the questions to see a realistic starting scope.':'বাস্তবসম্মত starting scope দেখতে প্রশ্নগুলোর উত্তর দিন।','Relevant case study →':'প্রাসঙ্গিক case study →','Interactive project brief':'interactive project brief','Turn a vague idea into a':'অস্পষ্ট idea-কে রূপ দিন','clear starting brief.':'একটি clear starting brief-এ।','Answer a few practical questions and generate a structured brief you can download, email or open in Telegram before the first conversation.':'কয়েকটি practical প্রশ্নের উত্তর দিয়ে first conversation-এর আগে download, email বা Telegram-এ পাঠানোর মতো structured brief তৈরি করুন।','Your name':'আপনার নাম','What should the project improve?':'project কী improve করবে?','Who will use it?':'কারা ব্যবহার করবেন?','What would success look like?':'success দেখতে কেমন হবে?','Constraints, integrations or notes':'constraint, integration বা note','Generate structured brief →':'structured brief তৈরি করুন →','Generated brief':'তৈরি করা brief','Your project story will appear here.':'আপনার project story এখানে দেখা যাবে।','Answer the questions and generate a brief to unlock the export and share actions.':'প্রশ্নগুলোর উত্তর দিয়ে brief তৈরি করলে export ও share action চালু হবে।','Download .txt':' .txt download করুন','Email brief':'brief email করুন','Performance posture':'performance posture','Built to stay':'portable থাকার জন্য তৈরি','portable.':'।','No invented score is published here. Instead, these are the verifiable implementation choices that keep the site ready for a real audit.':'এখানে কোনো invented score প্রকাশ করা হয়নি। পরিবর্তে audit-এর জন্য site ready রাখে এমন verifiable implementation choice দেখানো হয়েছে।','Local assets':'local asset','Project artwork, portrait and résumé paths are packaged with the site.':'project artwork, portrait ও résumé path site-এর সঙ্গে package করা আছে।','Progressive loading':'progressive loading','Non-critical project images use lazy loading and async decoding.':'non-critical project image lazy loading ও async decoding ব্যবহার করে।','Motion fallback':'motion fallback','Reduced-motion and Save-Data modes disable non-essential canvas activity.':'reduced-motion ও Save-Data mode non-essential canvas activity বন্ধ করে।','Accessible path':'accessible path','Keyboard focus rings, skip link, labelled forms and dialog focus return are included.':'keyboard focus ring, skip link, labelled form এবং dialog focus return যুক্ত আছে।','PWA shell':'PWA shell','Manifest metadata and a versioned service worker cache the core shell for repeat visits and offline fallback.':'manifest metadata ও versioned service worker repeat visit এবং offline fallback-এর জন্য core shell cache করে।','Verified feedback only':'শুধু verified feedback','Trust should be':'বিশ্বাস','earned.':'অর্জন করতে হয়।','I only publish feedback from people who have actually used the work.':'যারা সত্যিই কাজটি ব্যবহার করেছেন, শুধু তাদের feedback প্রকাশ করি।','There are no invented testimonials here. As beta users and collaborators share permissioned feedback, this section becomes a record of real outcomes rather than decorative praise.':'এখানে কোনো invented testimonial নেই। beta user ও collaborator permission দিলে এই section decorative praise নয়, real outcome-এর record হবে।','Share verified feedback →':'verified feedback share করুন →','Current availability':'বর্তমান availability','Accepting selected AI & web projects':'নির্বাচিত AI ও web project গ্রহণ করছি','Usually replies within 24–48 hours · Narsingdi, Bangladesh · UTC +6':'সাধারণত ২৪–৪৮ ঘণ্টার মধ্যে reply দিই · নরসিংদী, বাংলাদেশ · UTC +৬','Availability calendar':'availability calendar','A realistic view of the next':'পরবর্তী conversation-এর','conversation.':'বাস্তব চিত্র।','Current availability, the next opening and the response target are shown as a planning signal—not a guaranteed booking promise.':'current availability, next opening ও response target planning signal হিসেবে দেখানো হচ্ছে—guaranteed booking promise নয়।','August 2026':'আগস্ট ২০২৬','Open':'open','Focused':'focused','Sun':'রবি','Mon':'সোম','Tue':'মঙ্গল','Wed':'বুধ','Thu':'বৃহস্পতি','Fri':'শুক্র','Sat':'শনি','Current status':'বর্তমান status','Accepting selected projects':'নির্বাচিত project গ্রহণ করছি','AI bots, LLM workflows, Python automation and focused interfaces.':'AI bot, LLM workflow, Python automation ও focused interface।','Next open slot':'পরবর্তী open slot','18 August 2026':'১৮ আগস্ট ২০২৬','Discovery calls are arranged after a short project brief.':'ছোট project brief-এর পরে discovery call আয়োজন করা হয়।','Expected response':'সম্ভাব্য response','24–48 hours':'২৪–৪৮ ঘণ্টা','Send the goal, platform, constraints and desired first version.':'goal, platform, constraint ও desired first version পাঠান।','Prepare a project brief →':'project brief প্রস্তুত করুন →','Client portal preview':'client portal preview','A private space for the':'private space','active build.':'active build-এর জন্য।','This static-safe preview shows the intended client experience: brief, milestones, files and handover notes. Production authentication and private storage must be connected through a protected backend before confidential data is used.':'এই static-safe preview-তে client experience-এর কাঠামো দেখানো হয়েছে: brief, milestone, file ও handover note। confidential data ব্যবহারের আগে protected backend-এর মাধ্যমে production authentication ও private storage যুক্ত করতে হবে।','Open portal preview →':'portal preview খুলুন →','Rifat client workspace':'Rifat client workspace','DEMO ONLY':'শুধু DEMO','Overview':'overview','Milestones':'milestone','Handover':'handover','Active brief':'active brief','Focused first version: searchable PDF retrieval with a clear backup path.':'focused first version: clear backup path সহ searchable PDF retrieval।','Tools I work with':'যে tool-এ কাজ করি','A focused':'একটি focused','technical stack.':'technical stack।','Focus the stack':'stack focus করুন','AI':'AI','Backend':'backend','Tooling':'tooling','AI & LLM Systems':'AI ও LLM system','Strong working practice':'strong working practice','Used in':'ব্যবহৃত হয়েছে','and':'এবং','Backend & Database':'backend ও database','Production projects':'production project','Frontend Design':'frontend design','Shipped interface':'shipped interface','Tooling & Environment':'tooling ও environment','Daily practice':'প্রতিদিনের practice','Used across':'ব্যবহৃত হয়েছে','every case study':'প্রতিটি case study-তে','Stack constellation':'stack constellation','Tools with a purpose.':'উদ্দেশ্যপূর্ণ tool।','Every layer is chosen to make the final system clearer, faster, and more useful.':'প্রতিটি layer final system-কে আরও clear, fast ও useful করার জন্য বেছে নেওয়া।','The working method':'কাজের পদ্ধতি','A simple path from':'সহজ একটি পথ','scope to support.':'scope থেকে support পর্যন্ত।','Discovery & Scoping':'discovery ও scoping','Analyze the requirement, define the core architecture, and agree on what a successful first version should do.':'requirement analyze করি, core architecture define করি এবং successful first version কী করবে তা ঠিক করি।','Prototyping':'prototyping','Build an early MVP to validate API integrations, database structure, interaction patterns, and performance assumptions.':'API integration, database structure, interaction pattern ও performance assumption validate করতে early MVP build করি।','Development':'development','Write clean, maintainable Python and web code with a focus on reliability, accessibility, and asynchronous execution where it helps.':'reliability, accessibility ও প্রয়োজনমতো asynchronous execution-কে গুরুত্ব দিয়ে clean, maintainable Python ও web code লিখি।','Delivery & Support':'delivery ও support','Deploy the work with clear handover notes, then stay available for post-launch assistance and practical refinements.':'clear handover note সহ কাজ deploy করি, তারপর post-launch assistance ও practical refinement-এর জন্য available থাকি।','Clarifications':'clarification','Questions people':'মানুষের','usually ask.':'সাধারণ প্রশ্ন।','What types of projects do you take on?':'কোন ধরনের project নেন?','I focus on Telegram bots, Python automation tools, LLM API integrations, and modern responsive websites.':'আমি Telegram bot, Python automation tool, LLM API integration এবং modern responsive website-এ focus করি।','How experienced are you?':'আপনার experience কেমন?','I am a self-taught developer actively building my portfolio through real, shipped projects with a focus on reliability and clean code.':'আমি self-taught developer; reliability ও clean code-কে গুরুত্ব দিয়ে real, shipped project-এর মাধ্যমে portfolio তৈরি করছি।','Which LLM APIs do you integrate?':'কোন LLM API integrate করেন?','I work with OpenRouter API to integrate models such as DeepSeek R1 and GPT models into useful applications.':'আমি OpenRouter API ব্যবহার করে DeepSeek R1 ও GPT-এর মতো model useful application-এ integrate করি।','How do you usually start a project?':'সাধারণত project কীভাবে শুরু করেন?','We begin with the goal, constraints and first useful version. I then map the workflow, agree on scope and build a focused prototype before expanding the system.':'goal, constraint ও first useful version দিয়ে শুরু করি। তারপর workflow map, scope agree এবং system expand করার আগে focused prototype build করি।','Useful engineering notes,':'useful engineering note,','occasionally.':'মাঝে মাঝে।','A short, practical dispatch on Python automation, LLM workflows, Telegram systems and the decisions behind useful software. No artificial schedule and no noisy newsletter.':'Python automation, LLM workflow, Telegram system এবং useful software-এর পেছনের decision নিয়ে short practical dispatch। artificial schedule বা noisy newsletter নয়।','Join when the first public issue is ready.':'প্রথম public issue ready হলে যুক্ত হন।','Email address':'email address','Subscribe →':'subscribe করুন →','Direct subscription is ready for a provider endpoint. Until then, this opens a prepared email request.':'provider endpoint-এর জন্য direct subscription ready। তার আগে এটি prepared email request খুলবে।','Owner console':'owner console','A quiet view of the':'signals-এর','signals.':'শান্ত view।','Open this panel with':'এই panel খুলুন','Static mode shows only this browser’s locally stored events. Add a protected JSON endpoint for real site-wide analytics; never place admin credentials in client-side code.':'static mode শুধু এই browser-এর locally stored event দেখায়। real site-wide analytics-এর জন্য protected JSON endpoint যুক্ত করুন; client-side code-এ admin credential রাখবেন না।','local browser mode':'local browser mode','recorded visits':'recorded visit','project clicks':'project click','assistant questions':'assistant question','terminal commands':'terminal command','No local events recorded yet.':'এখনও কোনো local event record হয়নি।','For real traffic analytics, connect a privacy-conscious provider or protected endpoint.':'real traffic analytics-এর জন্য privacy-conscious provider বা protected endpoint connect করুন।','Get in touch':'যোগাযোগ করুন','Let’s build something':'চলুন তৈরি করি','exceptional.':'অসাধারণ কিছু।','Have a project idea, a workflow worth automating, or a product that needs a sharper interface? Send a message directly or find me through the links below. I usually reply within 24–48 hours.':'কোনো project idea, automate করার মতো workflow অথবা sharper interface প্রয়োজন এমন product আছে? সরাসরি message পাঠান বা নিচের link-এ আমাকে খুঁজে নিন। সাধারণত ২৪–৪৮ ঘণ্টার মধ্যে reply দিই।','WhatsApp: +880 1737-608355':'WhatsApp: +৮৮০ ১৭৩৭-৬০৮৩৫৫','Copy email address':'email address copy করুন','Download résumé (PDF)':'résumé (PDF) download করুন','Project type':'project type','Select a project type':'project type select করুন','Telegram AI Bot':'Telegram AI Bot','LLM / RAG Integration':'LLM / RAG integration','Responsive Website':'responsive website','Other / Not sure yet':'অন্য / এখনও নিশ্চিত নয়','Budget range':'budget range','Select a budget range':'budget range select করুন','Under $100':'$১০০-এর কম','$100–$300':'$১০০–$৩০০','$300–$750':'$৩০০–$৭৫০','$750+':'$৭৫০+','Let’s discuss scope first':'আগে scope নিয়ে আলোচনা করি','Subject':'subject','Message':'message','Send project brief →':'project brief পাঠান →','A direct provider endpoint can send the brief to email or a Telegram notification. Until configured, this opens a prepared email draft.':'direct provider endpoint brief email বা Telegram notification-এ পাঠাতে পারে। configure না করা পর্যন্ত prepared email draft খুলবে।','Explore':'explore','Connect':'connect','LinkedIn · add URL':'LinkedIn · URL যোগ করুন','A note from the builder':'builder-এর একটি note','I build with curiosity, automate with purpose, and shape every interface to make complex work feel simple.':'আমি curiosity নিয়ে build করি, purpose নিয়ে automate করি এবং complex কাজকে simple মনে হয় এমন interface তৈরি করি।','— MD Rashidul Islam (Rifat)':'— MD Rashidul Islam (Rifat)','Built with intention, clean code, and a practical bias toward useful software.':'intention, clean code এবং useful software-এর practical bias নিয়ে তৈরি।','Ask about the work':'কাজ সম্পর্কে জিজ্ঞেস করুন','Rifat’s project assistant':'Rifat-এর project assistant','Local project knowledge · no private data':'local project knowledge · private data নেই','Ask about Telegram bots, LLM integrations, the MRI Vault, or the engineering approach behind this portfolio.':'Telegram bot, LLM integration, MRI Vault অথবা এই portfolio-এর engineering approach সম্পর্কে জিজ্ঞেস করুন।','What can you build?':'আপনি কী build করতে পারেন?','How was the MRI Vault built?':'MRI Vault কীভাবে build করা হয়েছে?','What skills do you use?':'কোন skill ব্যবহার করেন?','Ask a question about Rifat’s work':'Rifat-এর কাজ সম্পর্কে প্রশ্ন করুন','Send':'পাঠান','Local retrieval mode is active. Add a secure server endpoint to enable generative AI responses.':'local retrieval mode active। generative AI response চালু করতে secure server endpoint যোগ করুন।'
+1064:    'AI Systems & Full-Stack Engineer':'AI Systems ও Full-Stack Engineer','I’m MD Rashidul Islam (Rifat), a self-taught Full-Stack AI Engineer from Narsingdi, Bangladesh. I turn complex AI ideas, automation workflows, and interface problems into practical software people can use.':'আমি MD Rashidul Islam (Rifat), নরসিংদী, বাংলাদেশের self-taught Full-Stack AI Engineer। জটিল AI idea, automation workflow ও interface problem-কে ব্যবহারযোগ্য software-এ রূপ দিই।','MD Rashidul Islam (Rifat) — a self-taught Full-Stack AI Engineer building useful Telegram bots, LLM integrations, automation systems, and responsive web interfaces.':'MD Rashidul Islam (Rifat) — self-taught Full-Stack AI Engineer হিসেবে useful Telegram bot, LLM integration, automation system ও responsive web interface তৈরি করি।','Available for selected collaborations.':'নির্বাচিত collaboration-এর জন্য available।','conversational AI interface':'conversational AI interface','single-page web experience':'single-page web experience','init portfolio --interactive':'portfolio --interactive চালু করছি','My work sits where engineering discipline meets product clarity: Python and SQLite on the backend, modern HTML, CSS and JavaScript on the frontend, and API-first AI systems in between. Working across Android through Termux and a Windows workspace has taught me to value clear architecture, reliable behavior, and software people can genuinely use.':'আমার কাজ engineering discipline ও product clarity-এর সংযোগস্থলে: backend-এ Python ও SQLite, frontend-এ modern HTML, CSS ও JavaScript এবং মাঝখানে API-first AI system। Termux-সহ Android ও Windows-এ কাজ করার অভিজ্ঞতা clear architecture, reliable behavior ও genuinely useful software-এর মূল্য শিখিয়েছে।','engineer.profile.json':'engineer.profile.json','"MD Rashidul Islam (Rifat)"':'"MD Rashidul Islam (Rifat)"','"Full-Stack AI Engineer"':'"Full-Stack AI Engineer"','"Narsingdi, Bangladesh"':'"নরসিংদী, বাংলাদেশ"','"Telegram Bot Architecture"':'"Telegram Bot Architecture"','"LLM API Orchestration"':'"LLM API Orchestration"','"Python Automation Utilities"':'"Python Automation Utilities"','"Full-Stack Web Interfaces"':'"Full-Stack Web Interfaces"','PYTHON / AUTOMATION':'PYTHON / AUTOMATION','Responsive Web Interfaces':'Responsive Web Interface','A single-page portfolio experience with a custom editorial layout, interactive project rail, animated dust field, responsive navigation, tabbed capabilities, and thoughtful motion built without a framework.':'custom editorial layout, interactive project rail, animated dust field, responsive navigation, tabbed capability ও thoughtful motion সহ framework-বিহীন single-page portfolio experience।','Live bot + public source code।':'Live bot + public source code।','Live interface + public source code।':'Live interface + public source code।','document vault · Telegram workflow':'document vault · Telegram workflow','A document workflow designed around the moment a file needs to be found, not merely stored.':'শুধু store নয়, file খুঁজে পাওয়ার মুহূর্তকে কেন্দ্র করে design করা document workflow।','A growing PDF library was becoming harder to search, organise and revisit.':'বড় হতে থাকা PDF library search, organise ও revisit করা কঠিন হয়ে উঠছিল।','Start where the user already works, then remove the repeated steps that slow retrieval down.':'user যেখানে কাজ করেন সেখান থেকেই শুরু করে retrieval ধীর করা repeated step সরানো।','Use Telegram as the interface, SQLite for durable state, and fuzzy matching for forgiving search.':'interface হিসেবে Telegram, durable state-এর জন্য SQLite এবং forgiving search-এর জন্য fuzzy matching ব্যবহার করা।','Keep metadata, file storage, progress and backup behaviour coherent inside a small self-hosted system.':'ছোট self-hosted system-এর মধ্যে metadata, file storage, progress ও backup behavior coherent রাখা।','A focused bot workflow with categorisation, fuzzy search, reading progress and automated backups.':'categorisation, fuzzy search, reading progress ও automated backup সহ focused bot workflow।','A live, usable document vault that turns Telegram into a practical retrieval interface.':'Telegram-কে practical retrieval interface-এ রূপ দেওয়া live ও usable document vault।','interactive architecture':'interactive architecture','Telegram interface connected to bot logic, SQLite state, fuzzy search, document storage and automated backups.':'Telegram interface bot logic, SQLite state, fuzzy search, document storage ও automated backup-এর সঙ্গে connected।','trade-off / failure handling':'trade-off / failure handling','GitHub / public snapshot':'GitHub / public snapshot','open-source timeline':'open-source timeline','Telegram archive workflow with fuzzy search, SQLite state, reading progress and backup behavior.':'fuzzy search, SQLite state, reading progress ও backup behavior সহ Telegram archive workflow।','DeepSeek R1 through OpenRouter, with response clarity, fallback planning and a focused chat loop.':'response clarity, fallback planning ও focused chat loop সহ OpenRouter-এর মাধ্যমে DeepSeek R1।','Static HTML, CSS and JavaScript patterns for accessible dialogs, filtering, PWA caching and honest analytics.':'accessible dialog, filter, PWA cache ও honest analytics-এর জন্য static HTML, CSS ও JavaScript pattern।','Connecting a focused Telegram conversation flow to DeepSeek R1 through OpenRouter.':'OpenRouter-এর মাধ্যমে focused Telegram conversation flow-কে DeepSeek R1-এর সঙ্গে connect করছি।','Next milestone · refine response flow and publish source when ready.':'পরবর্তী milestone · response flow refine করে ready হলে source publish করা।','Keeping search, retrieval, reading progress and backup behavior dependable in the live workflow.':'live workflow-এ search, retrieval, reading progress ও backup behavior dependable রাখা।','Next milestone · continue improving retrieval clarity from real use.':'পরবর্তী milestone · real use থেকে retrieval clarity উন্নত করা।','Next milestone · publish verified notes and outcomes over time.':'পরবর্তী milestone · সময়ের সঙ্গে verified note ও outcome publish করা।','interactive portfolio shell':'interactive portfolio shell','Live bot + public source':'Live bot + public source','LLM-powered feature':'LLM-powered feature','focused build · $300–$750':'focused build · $300–$750','growth build · $750+':'growth build · $750+','flexible · quality first':'flexible · quality first','web / responsive browser':'web / responsive browser','Termux / self-hosted':'Termux / self-hosted','file / search / storage':'file / search / storage','automation / notification':'automation / notification','interactive project brief':'interactive project brief','clear starting brief':'clear starting brief','progressive loading':'progressive loading','“I only publish feedback from people who have actually used the work.”':'“যারা সত্যিই কাজটি ব্যবহার করেছেন, শুধু তাদের feedback প্রকাশ করি।”','availability calendar':'availability calendar','client portal preview':'client portal preview','Rifat client workspace':'Rifat client workspace','Telegram document workflow':'Telegram document workflow','strong working practice':'strong working practice','stack constellation':'stack constellation','useful engineering note,':'useful engineering note,','A direct provider endpoint can send the brief to email or a Telegram notification. Until configured, this opens a prepared email draft.':'direct provider endpoint brief email বা Telegram notification-এ পাঠাতে পারে। configure না করা পর্যন্ত prepared email draft খুলবে।','I build with curiosity, automate with purpose, and shape every interface to make complex work feel simple.':'আমি curiosity নিয়ে build করি, purpose নিয়ে automate করি এবং complex কাজকে simple মনে হয় এমন interface তৈরি করি।','Make a growing document library easier to search and retrieve.':'বড় document library-কে সহজে search ও retrieve করা।','Telegram bot, SQLite structure and practical retrieval workflows.':'Telegram bot, SQLite structure ও practical retrieval workflow।','A focused document workflow that can be used directly inside Telegram.':'Telegram-এর ভেতরেই ব্যবহার করা যায় এমন focused document workflow।','Live bot and public source code.':'Live bot ও public source code।'
+1067:    'I’m MD Rashidul Islam (Rifat), a self-taught Full-Stack AI Engineer from Narsingdi, Bangladesh. I build Telegram bots, LLM workflows, automation tools, and responsive interfaces that make complex technology feel practical.':'আমি MD Rashidul Islam (Rifat), নরসিংদী, বাংলাদেশের self-taught Full-Stack AI Engineer। Telegram bot, LLM workflow, automation tool ও responsive interface তৈরি করে complex technology-কে practical করে তুলি।','Search by topic, project or keyword…':'topic, project বা keyword দিয়ে খুঁজুন…','conversational AI interface':'conversational AI interface','single-page web experience':'single-page web experience','trade-off / failure handling':'trade-off / failure handling','Trade-offs / failure handling':'trade-off / failure handling','interactive portfolio shell':'interactive portfolio shell','focused build · $300–$750':'focused build · $300–$৭৫০','automation / notification':'automation / notification','Example: help our team find PDF documents faster':'উদাহরণ: team-কে PDF document দ্রুত খুঁজতে সাহায্য করা','Example: a small research team':'উদাহরণ: একটি ছোট research team','Example: searchable results inside Telegram':'উদাহরণ: Telegram-এর মধ্যে searchable result','Deadline, platform, existing API, data or deployment constraints':'deadline, platform, existing API, data বা deployment constraint','try: projects':'try: projects লিখুন','Static mode shows only this browser’s locally stored events. Add a protected JSON endpoint for real site-wide analytics; never place admin credentials in client-side code.':'static mode শুধু এই browser-এ locally stored event দেখায়। real site-wide analytics-এর জন্য protected JSON endpoint যুক্ত করুন; client-side code-এ admin credential রাখবেন না।','“I build with curiosity, automate with purpose, and shape every interface to make complex work feel simple.”':'“আমি curiosity নিয়ে build করি, purpose নিয়ে automate করি এবং complex কাজকে simple মনে হয় এমন interface তৈরি করি।”','— MD Rashidul Islam (Rifat)':'— MD Rashidul Islam (Rifat)'
+1070:    'Currently building':'এখন build করছি','DeepSeek Telegram AI Bot · refining response flow':'DeepSeek Telegram AI Bot · response flow refine করছি','Manual update · active build':'Manual update · active build','Tool in use':'ব্যবহৃত tool','Hover a tool':'একটি tool-এর ওপর hover করুন','See where it is used.':'কোন project-এ ব্যবহৃত হয়েছে দেখুন।','Used in:':'ব্যবহৃত project:','Interactive stack constellation':'Interactive stack constellation','Hover or focus a tool to see which project uses it.':'কোন project-এ tool ব্যবহৃত হয়েছে দেখতে hover বা focus করুন।','Interactive stack map':'Interactive stack map','Focus or hover a node to see the public project path behind the tool.':'একটি node focus বা hover করে public project path দেখুন।','Project timeline':'Project timeline','A public path from':'একটি public path,','learning to shipping.':'learning থেকে shipping পর্যন্ত।','A stage-based roadmap keeps the story honest without inventing dates: foundation, shipped workflow, active AI build and a portfolio that documents the practice.':'তারিখ বানিয়ে না দেখিয়ে foundation, shipped workflow, active AI build এবং practice document করা portfolio—এই roadmap গল্পটিকে বাস্তব রাখে।','Foundation':'Foundation','Self-taught systems practice':'Self-taught systems practice','Python, Termux, SQLite and interface fundamentals shaped a practical build discipline.':'Python, Termux, SQLite ও interface fundamentals practical build discipline তৈরি করেছে।','Open-source snippets':'Open-source snippet','Small utilities, ready to':'পুনরায় ব্যবহারের জন্য ছোট','reuse.':'utility।','A small starter library for developer visitors. These are educational snippets, not production credentials or private project files.':'developer visitor-দের জন্য ছোট starter library। এগুলো educational snippet; production credential বা private project file নয়।','Copy snippet':'Snippet copy করুন','SQLite backup starter':'SQLite backup starter','Telegram bot skeleton':'Telegram bot skeleton','Reduced-motion guard':'Reduced-motion guard','Snippet copied to the clipboard.':'Snippet clipboard-এ copy হয়েছে।','Meta case study':'Meta case study','How I built':'আমি কীভাবে','this site.':'এই site তৈরি করেছি।','The portfolio is itself a frontend project: framework-free HTML, CSS and JavaScript, Canvas effects, local assets, accessible dialogs and a service-worker shell.':'এই portfolio নিজেই একটি frontend project: framework-বিহীন HTML, CSS ও JavaScript, Canvas effect, local asset, accessible dialog এবং service-worker shell।','Why no framework':'Framework কেন নয়','Fast handover, small surface area.':'দ্রুত handover, ছোট surface area।','Hardest constraint':'সবচেয়ে কঠিন constraint','Motion without losing clarity.':'clarity না হারিয়ে motion।','Lesson':'Lesson','Proof beats decoration.':'decoration নয়, proof বেশি গুরুত্বপূর্ণ।','Starting points':'শুরুর পথ','Choose a useful':'একটি ব্যবহারযোগ্য','first version.':'প্রথম version বেছে নিন।','These are scope signals, not fixed quotes. Final pricing follows the brief, integration surface and delivery constraints.':'এগুলো scope signal, fixed quote নয়। Final pricing brief, integration surface এবং delivery constraint-এর ওপর নির্ভর করবে।','Focused bot':'Focused bot','Telegram workflow':'Telegram workflow','Starting scope · under $300':'Starting scope · $৩০০-এর কম','AI integration':'AI integration','Starting scope · $300–$750':'Starting scope · $৩০০–$৭৫০','Full-stack build':'Full-stack build','Starting scope · $750+':'Starting scope · $৭৫০+','Simple':'সহজ','Full':'পূর্ণ','Use simplified view':'সহজ ভিউ ব্যবহার করুন','Use full view':'পূর্ণ ভিউ ব্যবহার করুন','No invented percentages appear here.':'এখানে কোনো বানানো percentage নেই।'
+1076:    'Interactive demo lab':'ইন্টারঅ্যাক্টিভ demo lab','Try the workflow before you ':'hire করার আগে workflow ','hire the builder.':'দেখুন।','A safe local sandbox demonstrates search, retrieval and backup behavior with sample data only. Nothing is sent to Telegram and no private session is opened.':'Sample data দিয়ে search, retrieval ও backup behavior-এর safe local sandbox। Telegram-এ কিছু পাঠানো হয় না এবং private session খোলা হয় না।','MRI Vault / local simulation':'MRI Vault / local simulation','SAFE DEMO':'নিরাপদ demo','Search sample archive':'sample archive search করুন','Search':'Search করুন','Retrieve a file':'একটি file retrieve করুন','Show backup flow':'backup flow দেখান','12 results found · ranked by fuzzy match':'fuzzy match অনুযায়ী ১২টি result পাওয়া গেছে','No external request made.':'কোনো external request করা হয়নি।','Interactive workflow reel':'ইন্টারঅ্যাক্টিভ workflow reel','Play workflow preview':'workflow preview চালান','Safe code playground':'নিরাপদ code playground','Read the utility. Understand the ':'utility পড়ুন, ','boundary.':'boundary বুঝুন।','Edit the educational starter below and preview its shape. The static site never executes arbitrary Python or accepts secrets in the browser.':'নিচের educational starter edit করে shape preview করুন। static site browser-এ arbitrary Python চালায় না এবং secret নেয় না।','Python starter':'Python starter','Preview safe output →':'নিরাপদ output preview করুন →','Preview result':'preview result','Ready. No code has been executed.':'প্রস্তুত। কোনো code চালানো হয়নি।','Educational preview only · no system access · no network request.':'শুধু educational preview · system access নেই · network request নেই।','Client onboarding':'client onboarding','From brief to a ':'brief থেকে ','useful first step.':'একটি useful first step।','Use the generated brief to understand what happens next: scope, proof, prototype and handover.':'Generated brief ব্যবহার করে পরবর্তী ধাপ বুঝুন: scope, proof, prototype ও handover।','01 · Scope':'০১ · Scope','Clarify the first useful version.':'প্রথম useful version স্পষ্ট করুন।','Goal, platform, constraints and success criteria become the project starting point.':'Goal, platform, constraint ও success criteria project-এর starting point তৈরি করে।','02 · Proof':'০২ · Proof','Choose the closest case study.':'সবচেয়ে কাছের case study বেছে নিন।','Use the MRI Vault, DeepSeek Bot or portfolio system as a shared reference.':'MRI Vault, DeepSeek Bot বা portfolio system shared reference হিসেবে ব্যবহার করুন।','03 · Prototype':'০৩ · Prototype','Test the riskiest integration early.':'সবচেয়ে ঝুঁকিপূর্ণ integration আগে test করুন।','Validate the API, workflow, interface or storage assumption before expanding.':'Expand করার আগে API, workflow, interface বা storage assumption validate করুন।','04 · Handover':'০৪ · Handover','Ship with a readable next step.':'পরিষ্কার next step-সহ ship করুন।','Receive a clear handover path, source context and practical refinement options.':'Clear handover path, source context ও practical refinement option পান।','Use my generated brief →':'আমার generated brief ব্যবহার করুন →','Generate a brief first, then continue here.':'আগে brief তৈরি করুন, তারপর এখানে এগোন।','Recruiter mode':'recruiter mode','Short version for hiring conversations':'hiring conversation-এর জন্য সংক্ষিপ্ত version','Full-stack AI Engineer · Python · LLM APIs · Telegram · frontend':'Full-stack AI Engineer · Python · LLM API · Telegram · frontend','Recruiter summary':'recruiter summary','Selected proof':'নির্বাচিত proof','Ready for a focused conversation':'focused conversation-এর জন্য ready','Accessibility audit':'accessibility audit','Make the experience easier to ':'অভিজ্ঞতায় প্রবেশকে আরও ','enter.':'সহজ করুন।','Run a local checklist for the current page: meaningful image alternatives, labelled controls, keyboard path, reduced-motion support and language state.':'বর্তমান page-এর local checklist চালান: meaningful image alt, labelled control, keyboard path, reduced-motion support ও language state।','Local check · no data sent':'local check · কোনো data পাঠানো হয়নি','Image alternatives':'image alternative','Control labels':'control label','Keyboard focus styles':'keyboard focus style','Reduced-motion support':'reduced-motion support','Language state':'language state','pending':'অপেক্ষমাণ','ready':'প্রস্তুত','Run local audit →':'local audit চালান →','No result yet.':'এখনও কোনো result নেই।','Design boundary':'design boundary','Accessibility is part of the build.':'Accessibility build-এর অংশ।','The checklist reports current DOM and preference state only. It does not claim WCAG certification or replace a human audit with assistive technology.':'এই checklist শুধু বর্তমান DOM ও preference state report করে। এটি WCAG certification claim করে না এবং assistive technology-সহ human audit-এর বিকল্প নয়।','Subscribe to Build Notes →':'Build Notes subscribe করুন →','Print / PDF':'Print / PDF','Local motion-safe workflow preview':'local motion-safe workflow preview'
+1079:    'Read':'পড়ুন','Open reading mode':'reading mode খুলুন','Exit reading mode':'reading mode বন্ধ করুন','Toggle reading mode →':'reading mode চালু করুন →','Proof ledger':'প্রমাণের তালিকা','Every claim should have a ':'প্রতিটি claim-এর একটি ','path.':'প্রমাণের পথ থাকা উচিত।','A transparent ledger connects the portfolio language to a public demo, repository, local implementation or an explicit configuration boundary.':'Portfolio-র প্রতিটি claim-কে public demo, repository, local implementation অথবা স্পষ্ট configuration boundary-এর সঙ্গে যুক্ত করা হয়েছে।','All proof':'সব প্রমাণ','Verified now':'এখন যাচাইযোগ্য','Configuration hooks':'configuration hook','Live MRI Vault workflow':'Live MRI Vault workflow','Search, retrieval, reading progress and backup behavior are represented through the live bot, local demo and public source.':'Live bot, local demo ও public source-এর মাধ্যমে search, retrieval, reading progress ও backup behavior দেখানো হয়েছে।','Inspect the safe demo →':'safe demo দেখুন →','Framework-free frontend practice':'framework-free frontend practice','HTML, CSS and JavaScript structure, responsive states, accessible dialog behavior and local assets can be inspected directly.':'HTML, CSS ও JavaScript structure, responsive state, accessible dialog behavior এবং local asset সরাসরি inspect করা যায়।','Read the meta case study →':'meta case study পড়ুন →','AI assistant endpoint':'AI assistant endpoint','Local retrieval is the fallback. A protected server endpoint can be connected later without placing credentials in the browser.':'Local retrieval fallback হিসেবে কাজ করে। Browser-এ credential না রেখে পরে protected server endpoint যুক্ত করা যাবে।','Review the boundary →':'boundary দেখুন →','Monitoring and delivery':'monitoring ও delivery','Status, analytics, newsletter, feedback storage and booking remain honest until a protected provider is configured.':'Protected provider configure না হওয়া পর্যন্ত status, analytics, newsletter, feedback storage ও booking honest state-এ থাকবে।','See the status posture →':'status posture দেখুন →','Decision replay':'সিদ্ধান্ত replay','Replay the path from ':'','problem to proof.':'problem থেকে proof পর্যন্ত।','Select a project, then move through the decision sequence. This is the reasoning layer behind the polished surface.':'একটি project বেছে নিয়ে decision sequence দেখুন। Polished surface-এর পেছনে এটাই reasoning layer।','Project to replay':'যে project replay করবেন','01 Problem':'০১ সমস্যা','02 Thinking':'০২ ভাবনা','03 Trade-off':'০৩ trade-off','04 Proof':'০৪ প্রমাণ','Scenario builder':'Scenario builder','Describe a situation. See a ':'একটি situation দিন, একটি ','safe response.':'safe response দেখুন।','Use sample constraints to preview how a Telegram, LLM or automation workflow could be shaped. No external request is made.':'Sample constraint ব্যবহার করে Telegram, LLM বা automation workflow-এর shape preview করুন। কোনো external request করা হয় না।','Primary scenario':'মূল scenario','Search a document archive':'Document archive search করুন','Add an LLM assistant':'LLM assistant যোগ করুন','Remove a repetitive task':'Repetitive কাজ সরান','Shape a responsive interface':'Responsive interface তৈরি করুন','First useful scale':'প্রথম useful scale','One focused workflow':'একটি focused workflow','Several connected workflows':'কয়েকটি connected workflow','A product foundation':'একটি product foundation','Hardest constraint':'সবচেয়ে কঠিন constraint','Keep the experience understandable':'Experience understandable রাখুন','Protect tokens and private state':'Token ও private state সুরক্ষিত রাখুন','Make failure and recovery explicit':'Failure ও recovery স্পষ্ট রাখুন','Validate the riskiest assumption early':'সবচেয়ে ঝুঁকিপূর্ণ assumption আগে validate করুন','Build a safe scenario →':'Safe scenario তৈরি করুন →','Local scenario preview':'Local scenario preview','Choose a scenario to begin.':'শুরু করতে একটি scenario বেছে নিন।','The recommendation will stay within a static-safe boundary.':'Recommendation static-safe boundary-এর মধ্যেই থাকবে।','Starting scope':'Starting scope','Relevant proof':'Relevant proof','Next question':'পরবর্তী প্রশ্ন','Copy scenario link':'Scenario link copy করুন','Project readiness':'Project readiness','Know what is ready for the ':'যা ready তা জানুন ','first conversation.':'প্রথম conversation-এর জন্য।','Tick what you already know. The meter identifies missing discovery inputs; it is not a quote, score or approval gate.':'যা জানা আছে তা tick করুন। Meter missing discovery input দেখাবে; এটি quote, score বা approval gate নয়।','Clear project goal':'Clear project goal','Primary users identified':'Primary user চিহ্নিত','Platform or deployment context':'Platform বা deployment context','Known constraints or integrations':'পরিচিত constraint বা integration','Definition of success':'Success-এর সংজ্ঞা','Check readiness →':'Readiness check করুন →','Build a structured brief →':'Structured brief তৈরি করুন →','Engineering principles':'Engineering principles','The decisions behind the ':'সিদ্ধান্তের পেছনের ','decisions.':'নীতিগুলো।','A compact reference for the trade-offs I use when a product moves from idea toward something people can depend on.':'Product idea থেকে dependable system হওয়ার পথে যে trade-off ব্যবহার করি, তার compact reference।','01 · Framework':'০১ · Framework','Use the smallest surface that can be handed over clearly.':'যে smallest surface পরিষ্কারভাবে handover করা যায় সেটি ব্যবহার করুন।','Framework-free is a deliberate fit for this single-page portfolio, not a universal rule.':'এই single-page portfolio-র জন্য framework-free একটি deliberate fit; universal rule নয়।','02 · State':'০২ · State','Choose SQLite when durable local state is enough.':'Durable local state যথেষ্ট হলে SQLite বেছে নিন।','Move to a protected service when collaboration, scale, permissions or operational guarantees require it.':'Collaboration, scale, permission বা operational guarantee প্রয়োজন হলে protected service ব্যবহার করুন।','03 · Models':'০৩ · Models','An LLM is a component, not the product.':'LLM একটি component, product নয়।','Prompts, fallback behavior, state and readable output decide whether intelligence becomes useful.':'Prompt, fallback behavior, state ও readable output intelligence-কে useful করে।','04 · Delivery':'০৪ · Delivery','Make the failure path part of the first version.':'প্রথম version-এর অংশ হিসেবেই failure path রাখুন।','Recovery, configuration boundaries and handover notes are product quality—not afterthoughts.':'Recovery, configuration boundary ও handover note product quality-এর অংশ।','Changelog diff':'Changelog diff','See how the portfolio ':'Portfolio কীভাবে ','evolves.':'evolve করে দেখুন।','Compare release notes without pretending every change happened on a production date.':'Production date বানিয়ে না দেখিয়ে release note compare করুন।','From':'থেকে','To':'পর্যন্ত','v15 · proof layer':'v15 · proof layer','v16 · interactive lab':'v16 · interactive lab','v17 · accessibility pass':'v17 · accessibility pass','v18 · decision layer':'v18 · decision layer','Suggested next release':'প্রস্তাবিত পরবর্তী release','API boundary notes':'API boundary notes','Show the contract before the ':'Connection-এর আগে ','connection.':'contract দেখান।','These examples document optional provider hooks. They are not live credentials, do not call a real endpoint, and are safe to share in a static repository.':'এগুলো optional provider hook-এর documentation। এগুলো live credential নয়, real endpoint call করে না এবং static repository-তে share করা নিরাপদ।','AI assistant endpoint':'AI assistant endpoint','Contact form endpoint':'Contact form endpoint','Status endpoint':'Status endpoint','Copy AI endpoint example':'AI endpoint example copy করুন','Permissioned feedback':'Permissioned feedback','Real feedback, with ':'স্পষ্ট permission-সহ ','clear permission.':'real feedback।','This local preview prepares a feedback request. Nothing is published or sent until a protected provider is connected and the contributor approves attribution.':'এই local preview feedback request প্রস্তুত করে। Protected provider যুক্ত এবং contributor attribution approve না করা পর্যন্ত কিছু publish বা send করা হয় না।','Contributor name':'Contributor-এর নাম','Name or anonymous label':'নাম বা anonymous label','Context':'Context','Beta user, collaborator, client':'Beta user, collaborator, client','Feedback':'Feedback','What changed after using the work?':'কাজটি ব্যবহারের পরে কী পরিবর্তন হয়েছে?','I approve this wording for review before publication.':'Publication-এর আগে review-এর জন্য এই wording approve করছি।','Prepare feedback preview →':'Feedback preview প্রস্তুত করুন →','Portable profile':'Portable profile','Take the signal with ':'এই profile signal-টি ','you.':'সঙ্গে নিন।','Download a structured Markdown or JSON profile for a recruiter, client brief or your own records.':'Recruiter, client brief বা নিজের record-এর জন্য structured Markdown বা JSON profile download করুন।','Download JSON profile':'JSON profile download করুন','Download Markdown profile':'Markdown profile download করুন','Keyboard guide':'Keyboard guide','Explore without leaving the ':'Keyboard ব্যবহার করেই ','keys.':'explore করুন।','The site remains usable with a keyboard and gives the shortcuts a visible explanation.':'সাইটটি keyboard দিয়েই ব্যবহার করা যায় এবং shortcut-এর visible explanation এখানে আছে।','Show keyboard guide →':'Keyboard guide দেখুন →','Hide keyboard guide':'Keyboard guide বন্ধ করুন','Open command palette':'Command palette খুলুন','Close dialog, menu or palette':'Dialog, menu বা palette বন্ধ করুন','Move through interactive controls':'Interactive control-এর মধ্যে চলুন','Activate the focused control':'Focused control চালু করুন','Installable portfolio':'Installable portfolio','Keep the work close, even ':'Offline হলেও কাজটি ','offline.':'কাছেই রাখুন।','The PWA shell is ready. If your browser supports installation, this action will open its native install prompt; otherwise it explains the fallback.':'PWA shell ready আছে। Browser install support করলে native install prompt খুলবে; না হলে fallback explanation দেখাবে।','Install portfolio →':'Portfolio install করুন →','Install prompt is not requested until you choose it.':'আপনি না চাইলে install prompt অনুরোধ করা হবে না।','Reading mode':'Reading mode','Less surface. More ':'কম surface, বেশি ','signal.':'signal।','Reading mode keeps the hierarchy, proof and contact path while reducing decorative effects for long-form case-study reading.':'Long-form case study পড়ার সময় Reading mode hierarchy, proof ও contact path রাখে, কিন্তু decorative effect কমিয়ে দেয়।'
+1082:    'Performance budget':'Performance budget','Measure the surface before you ':'Polish করার আগে surface-টি ','polish it.':'মাপুন।','This local snapshot reports implementation measurements, not an invented Lighthouse score. Run it on this browser to see the current DOM, code and first-party resource posture.':'এই local snapshot implementation measurement দেখায়, বানানো Lighthouse score নয়। বর্তমান browser-এ DOM, code এবং first-party resource posture দেখতে scan চালান।','Core code':'Core code','515 KB raw · 122 KB gzip snapshot':'৫১৫ KB raw · ১২২ KB gzip snapshot','Media share':'Media share','95.91% of archive snapshot':'archive snapshot-এর ৯৫.৯১%','Deployable ZIP':'Deployable ZIP','15.28 MB · v19 baseline':'১৫.২৮ MB · v19 baseline','First-party requests':'First-party request','Run local scan':'Local scan চালান','Honest measurement boundary':'সৎ measurement boundary','The panel uses local file metadata and browser timing when available. It does not claim field-user Web Vitals.':'এই panel local file metadata এবং browser timing ব্যবহার করে। এটি field-user Web Vitals claim করে না।','Run local scan →':'Local scan চালান →','No local scan run yet.':'এখনও কোনো local scan চালানো হয়নি।','Privacy center':'Privacy center','Know what stays ':'কোন data ','local.':'local থাকে জানুন।','This static portfolio keeps preferences and local analytics in this browser. Contact, newsletter, AI, booking and status delivery remain disabled until a protected provider is configured.':'এই static portfolio preference এবং local analytics এই browser-এ রাখে। Protected provider configure না করা পর্যন্ত contact, newsletter, AI, booking এবং status delivery disabled থাকে।','Stored locally':'Local-এ stored','Theme, language, view mode, reading mode and local event log.':'Theme, language, view mode, reading mode এবং local event log।','Not sent by default':'Default-ভাবে পাঠানো হয় না','No private client data, admin credentials or arbitrary code is sent from this static shell.':'এই static shell থেকে private client data, admin credential বা arbitrary code পাঠানো হয় না।','Provider boundary':'Provider boundary','External delivery requires an explicit protected endpoint or provider configuration.':'External delivery-এর জন্য explicit protected endpoint বা provider configuration প্রয়োজন।','Clear local preferences →':'Local preference clear করুন →','No local data was changed.':'কোনো local data পরিবর্তন করা হয়নি।','Project anti-fit':'Project anti-fit','Good work starts with a ':'ভালো কাজের শুরু একটি ','clear no.':'স্পষ্ট না দিয়ে।','The strongest collaboration is one where the problem, ownership and first useful version are understandable before work begins.':'সবচেয়ে ভালো collaboration হলো যেখানে কাজ শুরুর আগেই problem, ownership এবং first useful version পরিষ্কার থাকে।','Not a fit':'উপযুক্ত নয়','Unclear ownership':'Ownership পরিষ্কার নয়','Projects without a decision-maker, usable access or an agreed source of truth need clarification first.':'Decision-maker, usable access বা agreed source of truth ছাড়া project আগে clarify করা দরকার।','Guaranteed outcomes':'Guaranteed outcome','I do not promise invented uptime, revenue or AI accuracy before the system is instrumented and tested.':'System instrument ও test করার আগে বানানো uptime, revenue বা AI accuracy promise করি না।','Better first step':'ভালো first step','Focused prototype':'Focused prototype','Start with the riskiest workflow, a clear constraint and a practical handover path.':'সবচেয়ে ঝুঁকিপূর্ণ workflow, clear constraint এবং practical handover path দিয়ে শুরু করুন।','Outcome measurement planner':'Outcome measurement planner','Decide what success means ':'Build করার ','before build.':'আগেই success ঠিক করুন।','Choose a workflow and the planner will suggest an honest first measurement plan. It creates a conversation starter, not a promised result.':'একটি workflow বেছে নিলে planner honest first measurement plan দেবে। এটি conversation starter, promised result নয়।','What should change?':'কী পরিবর্তন হওয়া উচিত?','Finding and retrieving documents':'Document খুঁজে পাওয়া ও retrieve করা','Understanding an AI assistant response':'AI assistant-এর response বোঝা','Removing repetitive manual steps':'Repetitive manual step কমানো','Completing a responsive interface task':'Responsive interface task complete করা','What baseline exists?':'কোন baseline আছে?','No baseline yet':'এখনও কোনো baseline নেই','A manual process we can observe':'Observe করা যায় এমন manual process','A live system with logs':'Log-সহ live system','Which signal matters first?':'কোন signal আগে গুরুত্বপূর্ণ?','Clarity and completion':'Clarity ও completion','Time or steps saved':'সময় বা step সাশ্রয়','Failure and recovery':'Failure ও recovery','Usage and adoption':'Usage ও adoption','Build measurement plan →':'Measurement plan তৈরি করুন →','Planning signal':'Planning signal','Your first measurement plan will appear here.':'আপনার first measurement plan এখানে দেখা যাবে।','Choose the workflow, baseline and first signal to create a practical starting point.':'Practical starting point তৈরি করতে workflow, baseline ও first signal বেছে নিন।','Copy measurement plan':'Measurement plan copy করুন','Download contact vCard':'Contact vCard download করুন','Show contact QR':'Contact QR দেখুন','Scan to open the portfolio contact card.':'Portfolio contact card খুলতে scan করুন।','Download QR image':'QR image download করুন','QR code opening Rifat’s contact section':'Rifat-এর contact section খোলার QR code'
+1101:  $('#privacy-clear-state')?.addEventListener('click', () => { ['rifat-theme','rifat-language','rifat-reading-mode','rifat-recruiter-mode','rifat-simplified-view','rifat-portfolio-analytics'].forEach(key => { try { localStorage.removeItem(key); } catch (_) {} }); const status = $('#privacy-status'); if (status) status.textContent = isBn() ? 'Local preference ও analytics event clear হয়েছে। নতুন state দেখতে page reload করুন।' : 'Local preferences and analytics events were cleared. Reload to apply the default state.'; document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'privacy_clear_state' } })); });
+1103:  $('#download-vcard')?.addEventListener('click', () => { downloadFile('md-rashidul-islam-rifat.vcf', vcardText, 'text/vcard;charset=utf-8'); const status = $('#privacy-status'); if (status) status.textContent = isBn() ? 'Contact vCard download হয়েছে।' : 'Contact vCard downloaded.'; document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'contact_vcard_download' } })); });
+1159:    provider: { en: { kicker: 'Provider hook', title: 'External services remain opt-in boundaries.', summary: 'AI, booking, monitoring, newsletter and contact delivery are configuration hooks until a protected provider is connected.', visible: 'Endpoint labels, fallback states and provider notes.', protected: 'API keys, authenticated requests and delivery logs.', review: 'No provider is reported as live until configured.' }, bn: { kicker: 'Provider hook', title: 'External service opt-in boundary হিসেবে থাকে।', summary: 'Protected provider connect না হওয়া পর্যন্ত AI, booking, monitoring, newsletter এবং contact delivery configuration hook।', visible: 'Endpoint label, fallback state এবং provider note।', protected: 'API key, authenticated request এবং delivery log।', review: 'Configure না হওয়া পর্যন্ত কোনো provider-কে live বলা হয় না।' } }
+1175:  const recruiterSnapshotText = () => isBn() ? 'MD Rashidul Islam (Rifat)\nSelf-taught Full-Stack AI Engineer\n\nCore stack: Python · LLM/RAG · Telegram bots · HTML/CSS/JavaScript\nProof: MRI PDF Archive Vault live workflow · public repository · safe local demo\nWorking style: clear scope, useful first version, honest configuration boundaries\nContact: rashidulislamrifat14708@gmail.com · https://wa.me/8801737608355\nPortfolio: https://www.mdrashidulislam.kdns.fr/' : 'MD Rashidul Islam (Rifat)\nSelf-taught Full-Stack AI Engineer\n\nCore stack: Python · LLM/RAG · Telegram bots · HTML/CSS/JavaScript\nProof: MRI PDF Archive Vault live workflow · public repository · safe local demo\nWorking style: clear scope, useful first version, honest configuration boundaries\nContact: rashidulislamrifat14708@gmail.com · https://wa.me/8801737608355\nPortfolio: https://www.mdrashidulislam.kdns.fr/';
+1176:  $('#print-recruiter-snapshot')?.addEventListener('click', () => { document.documentElement.dataset.print = 'recruiter'; window.setTimeout(() => { window.print(); window.setTimeout(() => { delete document.documentElement.dataset.print; }, 300); }, 40); });
+1177:  $('#download-recruiter-snapshot')?.addEventListener('click', () => { downloadFile('rifat-recruiter-snapshot.txt', recruiterSnapshotText(), 'text/plain;charset=utf-8'); document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'recruiter_snapshot_download' } })); });
+1183:    { en: 'PWA metadata is present', bn: 'PWA metadata আছে', pass: !!document.querySelector('link[rel="manifest"]') && !!navigator.serviceWorker },
+1185:    { en: 'Honest provider hooks are declared', bn: 'Honest provider hook declared আছে', pass: !!document.querySelector('[data-form-endpoint]') && !!document.querySelector('[data-ai-endpoint]') && !!document.querySelector('[data-booking-url]') },
+1187:  ]; const results = $('#deployment-readiness-results'); const state = $('#deployment-readiness-state'); const progress = $('#deployment-readiness-progress'); const passed = localChecks.filter(check => check.pass).length; if (results) results.innerHTML = localChecks.map(check => `<li><span>${isBn() ? check.bn : check.en}</span><strong data-state="${check.pass ? 'pass' : 'review'}">${check.pass ? 'PASS' : (isBn() ? 'দেখুন' : 'REVIEW')}</strong></li>`).join(''); if (state) state.textContent = isBn() ? `${passed}/${localChecks.length} local check pass` : `${passed}/${localChecks.length} local checks pass`; if (progress) progress.style.width = `${Math.round((passed / localChecks.length) * 100)}%`; document.dispatchEvent(new CustomEvent('rifat:track', { detail: { name: 'deployment_readiness_scan', label: `${passed}/${localChecks.length}` } })); };
+1190:  const accessibilityPreferenceKeys = { motion: 'rifat-pref-reduced-motion', contrast: 'rifat-pref-high-contrast', text: 'rifat-pref-large-text', focus: 'rifat-pref-focus-mode' };
+1191:  const applyAccessibilityPreferences = () => { const root = document.documentElement; const values = Object.fromEntries(Object.entries(accessibilityPreferenceKeys).map(([name, key]) => [name, localStorage.getItem(key) === 'true'])); root.dataset.a11yMotion = values.motion ? 'reduced' : 'full'; root.dataset.a11yContrast = values.contrast ? 'high' : 'normal'; root.dataset.a11yText = values.text ? 'large' : 'normal'; root.dataset.a11yFocus = values.focus ? 'true' : 'false'; Object.entries({ motion: '#preference-reduced-motion', contrast: '#preference-high-contrast', text: '#preference-large-text', focus: '#preference-focus-mode' }).forEach(([name, selector]) => { const input = $(selector); if (input) input.checked = values[name]; }); };
+1192:  const setAccessibilityPreference = (name, value) => { const key = accessibilityPreferenceKeys[name]; if (key) localStorage.setItem(key, String(value)); applyAccessibilityPreferences(); const status = $('#accessibility-preferences-status'); if (status) status.textContent = isBn() ? 'Accessibility preference localভাবে update হয়েছে।' : 'Accessibility preference updated locally.'; };
+1194:  $('#reset-accessibility-preferences')?.addEventListener('click', () => { Object.values(accessibilityPreferenceKeys).forEach(key => localStorage.removeItem(key)); applyAccessibilityPreferences(); const status = $('#accessibility-preferences-status'); if (status) status.textContent = isBn() ? 'Accessibility preference reset হয়েছে।' : 'Accessibility preferences reset.'; });
+1196:  languageToggle?.addEventListener('click', () => window.setTimeout(() => { renderSecurityLayer($('.security-layer.is-active')?.dataset.securityLayer || 'boundary'); renderFailureSimulation($('#failure-condition')?.value || 'timeout'); if ($('#deployment-readiness-results')?.querySelector('li strong[data-state]')) deploymentReadiness(); applyAccessibilityPreferences(); }, 0));

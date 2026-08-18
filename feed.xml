@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Rifat Build Notes</title>
+    <link>https://www.mdrashidulislam.kdns.fr/</link>
+    <description>Short technical notes from MD Rashidul Islam (Rifat) on Python automation, Telegram bots, LLM workflows, and frontend systems.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>How I approach fuzzy search inside a Telegram archive</title>
+      <link>https://www.mdrashidulislam.kdns.fr/#notes</link>
+      <guid isPermaLink="false">rifat-note-fuzzy-search</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Search becomes useful when people do not need to remember an exact title. This note explains the role of normalised text, close matches, and useful metadata.</description>
+    </item>
+    <item>
+      <title>Why Termux is part of my engineering practice</title>
+      <link>https://www.mdrashidulislam.kdns.fr/#notes</link>
+      <guid isPermaLink="false">rifat-note-termux-practice</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Working across Android and Windows keeps deployment, recovery, and handover questions visible outside a perfect setup.</description>
+    </item>
+    <item>
+      <title>The practical layer between a model and a useful product</title>
+      <link>https://www.mdrashidulislam.kdns.fr/#notes</link>
+      <guid isPermaLink="false">rifat-note-llm-workflows</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>An LLM is a component, not the product. Useful prompts, fallbacks, state, and an understandable interface complete the workflow.</description>
+    </item>
+  </channel>
+</rss>

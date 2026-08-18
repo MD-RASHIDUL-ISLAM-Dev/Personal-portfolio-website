@@ -1,0 +1,26 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?project=archive&scenario=archive&scale=focused",
+  "result": {
+    "before": {
+      "width": 390,
+      "scrollWidth": 390,
+      "navHeight": 67.59375,
+      "navOverflow": "visible",
+      "contactDisplay": "block",
+      "contactWrapWidth": 358
+    },
+    "menuState": {
+      "open": true,
+      "bodyLock": true,
+      "aria": "true",
+      "mobileTools": 5
+    },
+    "contactNodes": [],
+    "headerNodes": [],
+    "closed": {
+      "open": false,
+      "bodyLock": false,
+      "aria": "false"
+    }
+  }
+}

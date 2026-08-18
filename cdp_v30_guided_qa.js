@@ -1,0 +1,30 @@
+(async()=>{
+const targets=await (await fetch('http://127.0.0.1:9222/json')).json();
+const target=targets.find(item=>item.type==='page'&&item.url.includes('manus.computer'))||targets.find(item=>item.type==='page');
+if(!target)throw new Error('No page target found');
+const ws=new WebSocket(target.webSocketDebuggerUrl);let nextId=1;const pending=new Map();
+ws.addEventListener('message',event=>{const m=JSON.parse(event.data);if(m.id&&pending.has(m.id)){const resolve=pending.get(m.id);pending.delete(m.id);resolve(m);}});
+const send=(method,params={})=>new Promise((resolve,reject)=>{const id=nextId++;pending.set(id,m=>m.error?reject(new Error(JSON.stringify(m.error))):resolve(m.result));ws.send(JSON.stringify({id,method,params}));});
+await new Promise(resolve=>ws.addEventListener('open',resolve,{once:true}));
+await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+const expression=`(async()=>{
+ const wait=ms=>new Promise(resolve=>setTimeout(resolve,ms));const root=document.documentElement;const section=document.querySelector('#guided-evaluation');const cards=[...document.querySelectorAll('#guided-evaluation .evaluation-card')];const click=async selector=>{document.querySelector(selector)?.click();await wait(30)};
+ const initial={present:!!section,cards:cards.length,forms:section?section.querySelectorAll('form').length:0,scrollWidth:root.scrollWidth,sectionHeight:section?Math.round(section.getBoundingClientRect().height):0};
+ document.querySelector('#tour-role').value='developer';await click('#tour-start');await click('#tour-next');const tour=document.querySelector('#tour-output')?.textContent.trim()||'';
+ document.querySelector('#interview-topic').value='llm';await click('#interview-reveal');const interview=document.querySelector('#interview-output')?.textContent.trim()||'';
+ document.querySelector('#playground-operation').value='ask';document.querySelector('#request-response-form')?.dispatchEvent(new Event('submit',{bubbles:true,cancelable:true}));await wait(30);const playground=document.querySelector('#request-response-output')?.textContent.trim()||'';
+ await click('.lineage-button[data-lineage="qa"]');const lineage=document.querySelector('#proof-lineage-output')?.textContent.trim()||'';
+ document.querySelector('#acceptance-goal').value='responsive';document.querySelector('#acceptance-criteria-form')?.dispatchEvent(new Event('submit',{bubbles:true,cancelable:true}));await wait(30);const acceptance=document.querySelector('#acceptance-criteria-output')?.textContent.trim()||'';
+ await click('#release-fingerprint-run');await wait(700);const fingerprint=document.querySelector('#release-fingerprint-output')?.textContent.trim()||'';
+ await click('.shortlist-buttons button[data-project="mri"]');await click('.shortlist-buttons button[data-project="deepseek"]');const shortlist=document.querySelector('#shortlist-output')?.textContent.trim()||'';
+ document.querySelector('#deployment-environment').value='netlify';document.querySelector('#deployment-environment').dispatchEvent(new Event('change',{bubbles:true}));await wait(30);const deployment=document.querySelector('#deployment-environment-output')?.textContent.trim()||'';
+ await click('.timeline-item[data-timeline="v30"]');const timeline=document.querySelector('#decision-timeline-output')?.textContent.trim()||'';
+ await click('#screenreader-preview-run');const screenreader=document.querySelector('#screenreader-preview-output')?.textContent.trim()||'';
+ const compatibility=document.querySelector('#compatibility-matrix')?getComputedStyle(document.querySelector('#compatibility-matrix')).display:'';
+ const overflow=cards.flatMap(card=>[...card.querySelectorAll('*')].filter(child=>{const r=child.getBoundingClientRect();return r.left< -1||r.right>root.clientWidth+1;}).map(child=>child.id||child.className||child.tagName));
+ const language=document.querySelector('#language-toggle');language?.click();await wait(100);const localized={value:root.dataset.language||'',title:document.querySelector('#guided-evaluation-title')?.textContent.trim()||'',timeline:document.querySelector('#decision-timeline-output')?.textContent.trim()||''};
+ const theme=document.querySelector('#theme-toggle');if(root.dataset.theme!=='light')theme?.click();await wait(50);const light={theme:root.dataset.theme||'',titleColor:document.querySelector('#guided-evaluation-title')?getComputedStyle(document.querySelector('#guided-evaluation-title')).color:'',cardColor:document.querySelector('.evaluation-card h3')?getComputedStyle(document.querySelector('.evaluation-card h3')).color:''};
+ return {initial,tour,interview,playground,lineage,acceptance,fingerprint,shortlist,deployment,timeline,screenreader,compatibility,overflow,localized,light,finalScrollWidth:root.scrollWidth};
+})()`;
+const result=await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});console.log(JSON.stringify({target:target.url,result:result.result?.value||result.exceptionDetails},null,2));await send('Emulation.clearDeviceMetricsOverride');ws.close();
+})();

@@ -1,0 +1,166 @@
+{
+  "target": "https://4183-ih3eq9kgv77c3syrirv4m-dcd118f9.sg1.manus.computer/?v=25.5&scenario=archive&scale=focused#ai-studio",
+  "result": {
+    "before": {
+      "scrollWidth": 390,
+      "headerOut": [],
+      "contactOut": [],
+      "form": {
+        "rect": {
+          "left": 33,
+          "right": 357,
+          "top": -4713,
+          "bottom": -4482,
+          "width": 324,
+          "height": 231
+        },
+        "display": "grid",
+        "font": "16px",
+        "line": "25.6px",
+        "grid": "324px",
+        "gridColumn": "auto",
+        "text": "Your questionAllow this question to use a configured protected AI endpoint. Leave unchecked for loca"
+      },
+      "consent": {
+        "rect": {
+          "left": 33,
+          "right": 357,
+          "top": -4624,
+          "bottom": -4544,
+          "width": 324,
+          "height": 80
+        },
+        "display": "flex",
+        "font": "14.08px",
+        "line": "26.752px",
+        "grid": "none",
+        "gridColumn": "1 / -1",
+        "text": "Allow this question to use a configured protected AI endpoint. Leave unchecked for local-only mode."
+      },
+      "span": {
+        "rect": {
+          "left": 58,
+          "right": 357,
+          "top": -4624,
+          "bottom": -4544,
+          "width": 299,
+          "height": 80
+        },
+        "display": "block",
+        "font": "14.08px",
+        "line": "26.752px",
+        "grid": "none",
+        "gridColumn": "auto",
+        "text": "Allow this question to use a configured protected AI endpoint. Leave unchecked for local-only mode."
+      },
+      "qr": {
+        "hidden": true,
+        "aria": "false",
+        "text": "Show contact QR"
+      },
+      "qrPanel": {
+        "rect": {
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "display": "none",
+        "font": "16px",
+        "line": "25.6px",
+        "grid": "none",
+        "gridColumn": "auto",
+        "text": "Scan to open the portfolio contact card.Download QR image"
+      }
+    },
+    "open": {
+      "menu": true,
+      "lock": true,
+      "aria": "true",
+      "mobileTools": 5
+    },
+    "qrOpen": {
+      "scrollWidth": 390,
+      "headerOut": [],
+      "contactOut": [],
+      "form": {
+        "rect": {
+          "left": 33,
+          "right": 357,
+          "top": -4714,
+          "bottom": -4483,
+          "width": 324,
+          "height": 231
+        },
+        "display": "grid",
+        "font": "16px",
+        "line": "25.6px",
+        "grid": "324px",
+        "gridColumn": "auto",
+        "text": "Your questionAllow this question to use a configured protected AI endpoint. Leave unchecked for loca"
+      },
+      "consent": {
+        "rect": {
+          "left": 33,
+          "right": 357,
+          "top": -4625,
+          "bottom": -4545,
+          "width": 324,
+          "height": 80
+        },
+        "display": "flex",
+        "font": "14.08px",
+        "line": "26.752px",
+        "grid": "none",
+        "gridColumn": "1 / -1",
+        "text": "Allow this question to use a configured protected AI endpoint. Leave unchecked for local-only mode."
+      },
+      "span": {
+        "rect": {
+          "left": 58,
+          "right": 357,
+          "top": -4625,
+          "bottom": -4545,
+          "width": 299,
+          "height": 80
+        },
+        "display": "block",
+        "font": "14.08px",
+        "line": "26.752px",
+        "grid": "none",
+        "gridColumn": "auto",
+        "text": "Allow this question to use a configured protected AI endpoint. Leave unchecked for local-only mode."
+      },
+      "qr": {
+        "hidden": false,
+        "aria": "true",
+        "text": "Contact QR বন্ধ করুন"
+      },
+      "qrPanel": {
+        "rect": {
+          "left": 16,
+          "right": 256,
+          "top": -12564,
+          "bottom": -12215,
+          "width": 240,
+          "height": 349
+        },
+        "display": "grid",
+        "font": "16px",
+        "line": "25.6px",
+        "grid": "209.219px",
+        "gridColumn": "auto",
+        "text": "Scan to open the portfolio contact card.Download QR image"
+      }
+    },
+    "closed": {
+      "menu": false,
+      "lock": false,
+      "aria": "false",
+      "qrHidden": true,
+      "qrAria": "false"
+    }
+  }
+}
