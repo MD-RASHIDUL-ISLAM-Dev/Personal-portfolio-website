@@ -1,5 +1,0 @@
-[
-  {"date":"v24","type":"feature layer","title":"Integration, proof and recruiter delivery","bnTitle":"Integration, proof ও recruiter delivery","summary":"Added public endpoint settings, safe proof lab, repository detail, guided tour, print-ready recruiter route, comparison sharing and release feed.","bnSummary":"Public endpoint settings, safe proof lab, repository detail, guided tour, print-ready recruiter route, comparison sharing এবং release feed যোগ হয়েছে।"},
-  {"date":"v23.5","type":"readability","title":"Light mode readability correction","bnTitle":"Light mode readability correction","summary":"Raised essential copy, strengthened contrast and verified Bengali and 390px mobile readability.","bnSummary":"গুরুত্বপূর্ণ copy বড় করা, contrast শক্ত করা এবং Bengali ও 390px mobile readability যাচাই করা হয়েছে।"},
-  {"date":"v22","type":"trust layer","title":"Security and failure-handling surfaces","bnTitle":"Security ও failure-handling surface","summary":"Added static-safe security, recovery, recruiter, deployment and accessibility surfaces.","bnSummary":"Static-safe security, recovery, recruiter, deployment এবং accessibility surface যোগ হয়েছে।"}
-]
