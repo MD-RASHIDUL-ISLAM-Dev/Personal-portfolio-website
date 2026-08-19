@@ -1,9 +1,0 @@
-Dark contrast diagnosis and v33.5 verification:
-
-Before patch, html[data-theme="dark"] #client-ready-layer resolved to background rgb(242,238,229) while the section/card/body text inherited rgb(242,238,229), producing paper-on-paper low contrast. Client cards resolved to a cream color-mix background and client-output boxes to another cream color-mix background.
-
-v33.5 patch adds scoped dark-theme rules for #client-ready-layer: dark navy gradient section and cards, light headings/body copy, explicit dark inputs/selects, high-contrast output boxes, readable controls with gold active/focus states, dark contact-card preview and portal borders. After a fresh cache reset, computed values confirmed: section color rgb(232,237,246); card color rgb(232,237,246); heading rgb(245,247,251); body rgb(185,197,216); output rgb(220,230,244) on rgba(6,13,28,.9); active button rgb(241,218,138) background with rgb(16,21,34) text; input rgb(245,247,251) on rgb(12,23,43). Theme attribute is dark.
-
-Visual confirmation: fresh v33.5 dark-mode preview now shows the Client-Ready section on dark navy cards with white headings, blue-gray body text, gold active controls and dark output panels. The previous cream-on-cream state is removed.
-
-Regression checks: v33 client-ready outputs populated at 390px, 360px and 1280px with scrollWidth matching the expected viewport/container and zero overflow entries. Preview QA passed at all three widths; all tested case-study images loaded. AI mobile, surface interaction, keyboard guide and static validation checks completed without reported failures.
