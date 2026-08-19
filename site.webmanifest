@@ -1,0 +1,17 @@
+{
+  "name": "MD Rashidul Islam (Rifat) | Full-Stack AI Engineer",
+  "short_name": "Rifat AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c1b",
+  "theme_color": "#080c1b",
+  "description": "Self-taught Full-Stack AI Engineer building Telegram AI bots, LLM workflows, automation systems and responsive web interfaces.",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
